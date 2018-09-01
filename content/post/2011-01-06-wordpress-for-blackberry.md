@@ -25,6 +25,6 @@ tags:
 
 要使用Wordpress for blackberry，必须在博客后台的撰写选项中，打开XML-RPC发布和ATOM发布，打上勾勾就可以了。
 
-之后从手机添加wordpress.org site，然后输入你的博客地址+xmlrpc.php路径，比如我的博客是 <http://www.idudu.co.cc/xmlrpc.php，最后输入用户名和密码开始添加，添加成功后，就可以发布新文章了。非常方便。>
+之后从手机添加wordpress.org site，然后输入你的博客地址+xmlrpc.php路径，比如我的博客是`http://www.idudu.co.cc/xmlrpc.php`，最后输入用户名和密码开始添加，添加成功后，就可以发布新文章了。非常方便。>
 
 [点击这里](http://u.115.com/file/t4b9a429cc)去115U盘下载!

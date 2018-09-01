@@ -42,4 +42,4 @@ FoxyProxy：
 
 4.工作模式选择使用基于其预定义模板的代理服务器；
 
-5.不显示Gmail图标和<https://ssl.gstatic.com地址有关系。
+5.不显示Gmail图标和`https://ssl.gstatic.com`地址有关系。

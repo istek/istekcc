@@ -381,7 +381,7 @@ service nginx start
 
 访问IP，应该显示nginx的欢迎页面
 
-![alt](https://upyun.esesr.net/20170625/wPdydVWbAwcy8r2d8jl4UV2e.png)
+![alt](http://upyun.zhoutao.ren/20170625/wPdydVWbAwcy8r2d8jl4UV2e.png)
 
 ## 5. 配置负载
 

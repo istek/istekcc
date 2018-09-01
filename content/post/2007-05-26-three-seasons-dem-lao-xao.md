@@ -9,8 +9,11 @@ tags:
   - 音乐
 ---
 前几天刚刚看完这个电影，觉得很好看，是我看过的文艺片里最让我喜欢的，因为我在看这个影片之间，读过了一些朋友的越南游记，开始对这个国度充满了很多很多的想像，于是恋恋三季给我这样的机会，让我慢慢的去体会他们的生活，他们的爱情，他们的痛苦，很感谢雨爵妹妹给我把这个主题歌的MV发过来了。呵呵。现在就让我们来一起欣赏一下吧。
+
 <!--more-->
+
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=3314479&auto=1&height=66"></iframe>
+
 歌词（中文）
 
 嘈杂的夜晚, 在一个冬天的夜晚我想念你,

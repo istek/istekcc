@@ -1,5 +1,5 @@
 ---
-title: 'Lisa Ekdah &#8211; The color of you'
+title: "Lisa Ekdah - The color of you"
 date: 2012-09-05T21:05:10+00:00
 layout: post
 categories:
@@ -8,7 +8,7 @@ tags:
   - Lisa Ekdah
 ---
 
-![Lisa Ekdah](https://qn.esesr.net/2017/06/faedab64034f78f09f4b21e679310a55b3191c66.jpg)
+![Lisa Ekdah](https://qn.zhoutao.ren/2017/06/faedab64034f78f09f4b21e679310a55b3191c66.jpg)
 
 Color Of You — Lisa Ekdahl
 

@@ -31,11 +31,11 @@ _注意：这里仅能导出文章（post）和独立页面（page），无法�
 
 其次，增加一个disqus站点，添加你的域名，
 
-![TIM截图20170619112015](https://qn.esesr.net/2017/06/timjie-tu-20170619112015.png)
+![TIM截图20170619112015](https://qn.zhoutao.ren/2017/06/timjie-tu-20170619112015.png)
 
 之后，在wordpress安装[disqus插件](https://wordpress.org/plugins/disqus-comment-system/)，以你的disqus账号登陆成功后，有一个`Import and Export`设置项目，点击`Export comments to Disqus`后面的`Export Comments`，这样就把wordpress中的评论全部导出到disqus了。
 
-![TIM截图20170619112619](https://qn.esesr.net/2017/06/timjie-tu-20170619112619.png)
+![TIM截图20170619112619](https://qn.zhoutao.ren/2017/06/timjie-tu-20170619112619.png)
 
 ### 3、文件
 
@@ -111,7 +111,7 @@ s.setAttribute('data-timestamp', +new Date());
 
 点击`Labs`菜单，点击 `Export` 按钮，导出json文件。
 
-![2](https://qn.esesr.net/2017/06/timjie-tu-20170619121013.png)
+![2](https://qn.zhoutao.ren/2017/06/timjie-tu-20170619121013.png)
 
 ### 2、导入wordpress
 

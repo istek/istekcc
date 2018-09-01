@@ -64,7 +64,7 @@ tags:
 
 `/centos/5/os/x86_64` or `/centos/5.9/os/x86_64`
 
-![CentOS 5 Netinstall url (http setup)](https://res.cloudinary.com/the-backyard-of-stanley/image/upload/v1413002773/1859f06c394f5559aa78752870bed1a6_c44qwh.png "CentOS 5 Netinstall url (http setup)")
+![CentOS 5 Netinstall url-http setup](https://res.cloudinary.com/the-backyard-of-stanley/image/upload/v1413002773/1859f06c394f5559aa78752870bed1a6_c44qwh.png)
 
 ## 10. 开始下载安装工具
 
