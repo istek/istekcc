@@ -1,0 +1,48 @@
+---
+title: We were soldiers
+date: 2007-01-30T07:52:13+00:00
+layout: post
+categories:
+  - 我的世界
+tags:
+  - 电影
+---
+Today I reviewed the movie We Were Soldiers.I respect them in no doubt.The movie based on novell <We were soldiers once…and young>.Right now I paste some paragraphes below.Enjoy Yourself!
+
+“This story is about time and memories. The time was 1965, a different kind of year, a watershed year when one era was ending in America and another was beginning. We felt it then, in the many ways our lives changed so suddenly, so dramatically, and looking back on it from a quarter-century gone we are left in no doubt. It was the year America decided to directly intervene in the Byzantine affairs of obscure and distant South Vietnam. It was the year we went to war. In the broad, traditional sense, that “we” who went to war was all of us, all Americans, though in truth at that time the larger majority had little knowledge, less interest and no great concern with what was beginning so far away.
+
+So this story is about the smaller, more tightly focused “we” of that sentence, the first American combat troops who boarded World War II-era troop ships, sailed to that little known place and fought the first major battle of a conflict that would drag on for ten long years and come as near to destroying America as it did to destroying Vietnam.
+<!--more-->
+The Ia Drang Campaign was to the Vietnam War what the terrible Spanish Civil War of the 1930’s was to World War II—a dress rehearsal. The place where new tactics, techniques and weapons were tested, perfected and validated. In the Ia Drang, both sides claimed victory and both sides drew lessons, some of them dangerously deceptive, which echoed and resonated throughout the decade of bloody fighting and bitter sacrifice that was to come.
+
+This is about what we did, what we saw, what we suffered in a 34-day campaign in the remote Ia Drang Valley of the Central Highlands of South Vietnam in November, 1965, when we were young and confident and patriotic and our countrymen knew little and cared less about our sacrifices.
+
+Another war story, you say? Not exactly, for on the more important levels this is a love story, told in our own words and by our own actions. We were the children of the 1950’s and we went where we were sent because we loved our country. We were draftees, most of us, but we were proud of the opportunity to serve that country just as ou* **thers had served in World War II and our older brothers in Korea. We were members of an elite, experimental combat division trained in the new art of airmobile wa***re at the behest of President John F. Kennedy.
+
+Just before we shipped out to Vietnam the Army handed us the colors of the historic 1st Cavalry Division and we all proudly sewed on the big yellow and black shoulder patches with the horse head silhouette. We went to war because our country asked us to go, because our new President, Lyndon B. Johnson, ordered us to go, but more importantly because we saw it as our duty to go. That is one kind of love.
+
+Another and far more transcendent love came to us unbidden on the battlefields as it does on every battlefield in every war man has ever fought. We discovered in that depressing, hellish place where death was our constant companion that we loved each other. We killed for each other, we died for each other and we wept for each other. And in time we came to love each other as brothers. In battle our world shrank to the man on our left and the man on our right and the enemy all around. We held each other’s lives in our hands and we learned to share our fears, our hopes, our dreams as readily as we shared what little else good came our way.
+
+We were the children of the 1950’s and John F. Kennedy’s young stalwarts of the early 1960’s. He told the world that Americans would go anywhere, pay any price, bear any burden in the defense of **_*_**. We were the down payment on that costly contract, but the man who signed it was not there when we fulfilled his promise. John F. Kennedy waited for us on a hill in Arlington National Cemetery, and in time, by the thousands, we came to fill those slopes with our white marble markers and to ask on the murmur of the wind if that was truly the future he had envisioned for us.
+
+Among us were old veterans, grizzled sergeants who had fought in Europe and the Pacific in World War II and had survived the frozen hell of the Chosin Reservoir in Korea, and now were about to add another star to their Combat Infantryman’s Badge. There were Regular Army enlistees, young men from America’s small towns whose fathers told them they would learn discipline and become real men in the Army. There were other young men who chose the Army over an equal term in prison. Alternative sentencing, the judges call it now. But the majority were draftees, 19- and 20-year-old boys summoned from all across America to do their two years in green by their friendly local Selective Service Boards. The PFC’s soldiered for $99.37 a month; the Sergeants First Class for $343.50 a month.
+
+Leading us were the sons of West Point and the young ROTC lieutenants from Rutgers and The Citadel and, yes, even Yale University who had heard Kennedy’s call and answered it. There were also the young enlisted men and NCO’s who passed through Officer Candidate School and emerged, newly minted, officers and gentlemen. All laughed nervously when confronted with the cold statistics that measured a second lieutenant’s combat life expectancy in minutes and seconds, not hours. Our second lieutenants were paid $241.20 per month.
+
+The Class of 1965 came out of the old America, a nation which disappeared forever in the smoke that billowed off the jungle battlegrounds where we fought and bled. The country which sent us off to war was not there to welcome us home. It no longer existed. We answered the call of one President who was now dead; followed the orders of another who would be hounded from office, and haunted, by the war he mismanaged so badly.
+
+Many of our countrymen came to hate the war we fought. Those who hated it the most—the professionally sensitive—were not, in the end, sensitive enough to differentiate between the war and the soldiers who had been ordered to fight it. They hated us as well, and we went to ground in the crossfire, as we had learned in the jungles.
+
+In time our battles were forgotten, our sacrifices discounted and both our sanity and our suitability for life in polite progressive American society were publicly questioned. Our young-old faces, chiseled and gaunt from the fever and the heat and the sleepless nights, now stare back at us, lost and damned strangers, frozen in yellowing snapshots packed away in cardboard boxes with our medals and ribbons.
+
+We rebuilt our lives, found jobs or professions, married, raised families and waited patiently for America to come to its senses. As the years passed we searched each other out and found that the half-remembered pride of service was shared by those who hadshared everything else with us. With them, and only with them, could we talk about what had really happened over there—what we had seen, what we had done, what we had survived.
+
+We knew what Vietnam had been like, and how we looked and acted and talked and smelled. No one in America did. Hollywood got it wrong every damned time, whetting twisted political knives on the bones of our dead brothers.
+
+So once, just this once, this is how it all began, what it was really like, what it meant to us and what we meant to each other. It was no movie. When it was over the dead did not get up and dust themselves off and walk away. The wounded did not wash away the red and go on with life unhurt. Those who were, miraculously, unscratched were by no means untouched. Not one of us left Vietnam the same young man he was when he arrived.
+
+This story, then, is our testament, and our tribute to 234 young Americans who died beside us during four days in Landing Zone X-Ray and Landing Zone Albany in the Valley of Death, 1965. That is more Americans than were killed in any regiment, north or south, at the Battle of Gettysburg, and far more than were killed in combat in the entire Persian Gulf War. Seventy more of our comrades died in the Ia Drang in desperate skirmishes before and after the big battles at X-Ray and Albany. All the names, 305 of them, are engraved on the third panel to the right of the apex, Panel 3-East, of the Vietnam Veterans Memorial in Washington, D.C., and on our hearts. This is also the story of the suffering of families whose lives were forever shattered by the death of a father, a son, a husband, a brother in that Valley.
+
+While those who have never known war may fail to see the logic, this story also stands as tribute to the hundreds of young men of the 320th, 33rd and 66th Regiments of the Peoples Army of Vietnam who died by our hand in that place. They, too, fought and died bravely. They were a worthy enemy. We who killed them pray that their bones were recovered from that wild, desolate place where we left them, and taken home for decent and honorable burial.
+
+This is our story and theirs. For we were soldiers once, and young.”
