@@ -33,4 +33,3 @@ Ubuntu/linuxmint远程桌面windows
 
 **PS：**
 从家里连接办公室的台式机，台式机还是内网，怎么做到的？不是Teamviewer，而是FCN。感兴趣的朋友，可以到[这里](https://github.com/boywhp/fcn)了解一下FCN。
-
