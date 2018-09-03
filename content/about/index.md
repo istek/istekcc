@@ -24,8 +24,8 @@ Stanley，兴趣诸多，喜欢音乐，电影，写博，偶尔阅读小说，�
 
 Plan B:
 
-* coding.net
-* hExo
+* GitHub/GitLab
+* Hugo
 
 # 联系方式
 
