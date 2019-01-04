@@ -4174,6 +4174,7 @@ DROP TABLE mydata;
 
 - 复杂的审计功能；
 例：将EMP 表的变化情况记录到AUDIT_TABLE和AUDIT_TABLE_VALUES中。
+
 ```sql
 CREATE TABLE audit_table(
     Audit_id     NUMBER,
@@ -4224,8 +4225,10 @@ END IF;
 END IF;
 END;
 ```
+
 - 增强数据的完整性管理；
 例：修改DEPT表的DEPTNO列时，同时把EMP表中相应的DEPTNO也作相应的修改；
+
 ```sql
 CREATE SEQUENCE update_sequence
     INCREMENT BY 1
@@ -4269,8 +4272,10 @@ END;
 SELECT * FROM EMP ORDER BY DEPTNO;
 UPDATE dept SET deptno=25 WHERE deptno=20;
 ```
+
 - 帮助实现安全控制；
 例：保证对EMP表的修改仅在工作日的工作时间；
+
 ```sql
 CREATE TABLE company_holidays(day DATE);
 INSERT INTO company_holidays
