@@ -130,9 +130,19 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     clientId = ""           # Your client ID
     clientSecret = ""       # Your client secret
 
+  [params.valine]
+    enable = true
+    appId = 'fQSvT9LdnIXJjIkN5nKUcSp3-gzGzoHsz'
+    appKey = '2ntirBSkG3XFtRAm7QW5GGyJ'
+    notify = true  # mail notifier , https://github.com/xCss/Valine/wiki
+    verify = true # Verification code
+    avatar = 'mm' 
+    placeholder = '说点什么吧...'
+    visitor = true
+
   [params.utterances]       # https://utteranc.es/
-    owner = "istek"              # Your GitHub ID
-    repo = istekcc               # The repo to store comments
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
 
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
     owner = ""              # Your GitHub ID
