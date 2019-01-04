@@ -130,11 +130,15 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     clientId = ""           # Your client ID
     clientSecret = ""       # Your client secret
 
-  [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
+  [params.utterances]       # https://utteranc.es/
     owner = "istek"              # Your GitHub ID
-    repo = "istekcc"               # The repo to store comments
-    clientId = "0d18fdc64c98bb068d52"           # Your client ID
-    clientSecret = "c13f5673ee98f3e1dd7a1b5c88ce4899d6a15308"       # Your client secret
+    repo = istekcc               # The repo to store comments
+
+  [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
+    clientId = ""           # Your client ID
+    clientSecret = ""       # Your client secret
 
   [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
     enable = false
