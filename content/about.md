@@ -20,7 +20,7 @@ Stanley，兴趣诸多，喜欢音乐，电影，写博，偶尔阅读小说，�
 关于此博客的一些details
 
 * VPS：vultr 欢迎使用我的[推荐链接](https://www.vultr.com/?ref=7272208)
-* Domain：Godaddy
+* Domain：Aliyun
 * SSL：Let's Encrypt
 * DNS：he.net
 
