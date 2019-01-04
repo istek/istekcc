@@ -60,9 +60,11 @@
 	],
 	"file_history":
 	[
-		"/E/wwwroot/hugo/istekcc/.gitignore",
-		"/E/wwwroot/hugo/myblog/config.toml",
 		"/E/wwwroot/hugo/istekcc/config.toml",
+		"/E/wwwroot/hugo/istekcc/.gitignore",
+		"/E/wwwroot/hugo/istekcc/content/about.md",
+		"/E/wwwroot/hugo/istekcc/content/about/index.md",
+		"/E/wwwroot/hugo/myblog/config.toml",
 		"/C/Users/Zhou/Desktop/error.log",
 		"/E/wwwroot/hugo/istekcc/themes/even/exampleSite/config.toml",
 		"/E/wwwroot/hugo/myblog/.gitlab-ci.yml",
@@ -138,7 +140,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 32.0
 	},
 	"layout":
 	{
