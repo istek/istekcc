@@ -71,9 +71,8 @@ adb shell "settings put global captive_portal_fallback_url http://captive.v2ex.c
 adb shell "settings put global captive_portal_other_fallback_urls http://captive.v2ex.co/generate_204"; 
 ```
 
+本文根据v2ex的captive portal说明改编。
 
-
-[^2]: 源码详见：
-http://androidxref.com/8.0.0_r4/xref/frameworks/base/services/core/java/com/android/server/connectivity/NetworkMonitor.java#675
+[^2]: 源码详见：[这里](http://androidxref.com/8.0.0_r4/xref/frameworks/base/services/core/java/com/android/server/connectivity/NetworkMonitor.java#675)
 
 [^adb]: adb （ Android Debug Bridge ）是一个功能强大的命令行工具，属于 Google 官方的 Android 开发工具之一。你可以使用它来修改 Android 手机的一些核心设置。
