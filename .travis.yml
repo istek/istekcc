@@ -3,7 +3,7 @@ language: go
 git:
     depth: 1
 install: 
-    - wget -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.53_Linux-64bit.tar.gz
+    - wget -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz
     - tar xvfz hugo.tar.gz
     - rm -fr public
 script:
