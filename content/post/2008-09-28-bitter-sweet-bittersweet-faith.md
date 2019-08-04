@@ -3,7 +3,7 @@ title: 'Bitter:Sweet &#8211; Bittersweet Faith'
 date: 2008-09-28T07:38:38+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - Bitter:Sweet
 ---

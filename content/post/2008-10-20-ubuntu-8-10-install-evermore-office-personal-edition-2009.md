@@ -3,9 +3,9 @@ title: Ubuntu 8.10安装永中Office个人版2009
 date: 2008-10-20T08:47:06+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - Ubuntu
+  - 永中office
 ---
 
 从网络上找到了8.04的安装方法，其实在8.10下面安装没有什么区别，不过我的桌面效果开了，安装对话框很正常，没有出现“白屏”和看不到字的情况。

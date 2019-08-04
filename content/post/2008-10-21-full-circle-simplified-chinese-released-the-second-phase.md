@@ -3,10 +3,7 @@ title: Full Circle简体中文第二期发布
 date: 2008-10-21T19:35:49+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - full circle
-  - Ubuntu
+  - Linux
 ---
 
 Full Circle是一本由Ubuntu社区独立推出的社区电子杂志。杂志内容上偏重于桌面应用适用于刚刚了解Ubuntu系统的初学者、已熟悉Ubuntu系 统并且想利用Ubuntu系统进一步开展工作的朋友，部分内容适用于其它Linux发行版的使用者。刚刚接触Linux的朋友如果您读了我们的杂志，您可 能会发现Linux没那么高深莫测。已经是老鸟的Linuxer如果您读了我们的杂志，也许您会吓一跳，原来Ubuntu还可以这么用！

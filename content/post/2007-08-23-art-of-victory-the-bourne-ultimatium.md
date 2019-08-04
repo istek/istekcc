@@ -3,10 +3,9 @@ title: 《碟影重重3》艺术的胜利
 date: 2007-08-23T02:26:53+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - the-bourne-ultimatium
-  - 电影
 ---
 ![https://www.uphe.com/sites/default/files/2015/04/The-Bourne-Ultimatum-Gallery-19.jpg](https://www.uphe.com/sites/default/files/2015/04/The-Bourne-Ultimatum-Gallery-19.jpg)
 <!--more-->

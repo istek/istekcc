@@ -3,10 +3,9 @@ title: You Never Can Tell
 date: 2008-01-26T01:02:36+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - pulp fiction
-  - 音乐
 ---
 
 The movie Pulp Fiction is a wonderful movie I’ve never seen.This movie clip is found at someone’s blog.

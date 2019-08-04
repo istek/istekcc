@@ -3,9 +3,7 @@ title: 博客顺利更新至2.7
 date: 2008-12-14T11:02:21+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - wordpress
+  - WEB
 ---
 
 晚上回来发现Wordpress已经发布了2.7版，按奈不住对于最新版的好奇，还是升级了，还好，没有出现什么问题，很顺利，数据已经备份了。

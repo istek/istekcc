@@ -3,9 +3,9 @@ title: Auto Completing of gvim/vim for PHP
 date: 2008-12-23T01:29:31+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - php
+  - vim
 ---
 When I try to use vim to code, I found it’s lack of auto completing. Well, I got a solution for that. Please consolt the below information for tails.
 

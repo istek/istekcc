@@ -3,9 +3,8 @@ title: HP的响应级别及西北流程
 date: 2008-03-05T23:26:44+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 tags:
-  - hp
   - 工作流程
 ---
 

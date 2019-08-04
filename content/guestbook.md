@@ -1,9 +1,9 @@
 ---
 title: 留言本
 date: 2007-10-06T05:29:15+00:00
-layout: post
-categories:
-  - 我的世界
+layout: guestbook
+menu: "main"
+weight: 40
 ---
 
 欢迎大家留言！

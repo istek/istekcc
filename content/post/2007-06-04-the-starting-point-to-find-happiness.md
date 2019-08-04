@@ -3,7 +3,7 @@ title: 寻找幸福的起点
 date: 2007-06-04T14:02:56+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 （一）

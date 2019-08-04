@@ -3,9 +3,7 @@ title: 使用了几天Ubuntu之后
 date: 2007-10-21T07:06:30+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - Ubuntu
+  - Linux
 ---
 
 7月18日，一个非常特殊的日子，对于所有使用[Ubuntu](http://www.ubuntu.org.cn)发行版的朋友来说，因为Ubuntu在这一天全球发布了Ubuntu 7.10(开发代号Gutsy Gibbon)。虽然我也使用Ubuntu，但是从来没有碰到过这样特殊的日子，18号一天都在电脑前等着呢，说实话，从来没有这么期盼过一个操作系统的诞生，在Ubuntu中文论坛有朋友说，Windows Vista发布也没有这么热闹过。很多朋友耐心的等待，终于在18号晚上Ubuntu官方网站的首页改版，放出了Release。

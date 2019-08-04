@@ -3,8 +3,6 @@ title: MSN安装需要windows update agent!
 date: 2008-01-17T03:40:54+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
 ---
 

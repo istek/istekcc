@@ -3,9 +3,7 @@ title: Jazz music video
 date: 2008-06-15T19:44:52+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - 音乐
+  - MV
 ---
 
 yeah…. so hot ,so lazy,so wonderful music.come on,swing with me.

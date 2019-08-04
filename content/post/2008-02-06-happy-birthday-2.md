@@ -3,7 +3,7 @@ title: Happy Birthday!
 date: 2008-02-06T22:23:10+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 Today it's my birthday! Happy Birthday!
 

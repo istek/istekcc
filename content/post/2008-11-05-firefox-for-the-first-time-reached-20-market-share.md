@@ -3,7 +3,7 @@ title: 'Firefox首次达到20%市场份额'
 date: 2008-11-05T23:22:02+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - firefox
 ---

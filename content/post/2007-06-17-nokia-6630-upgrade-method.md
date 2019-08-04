@@ -3,7 +3,7 @@ title: Nokia 6630 升级版本方法
 date: 2007-06-17T03:11:21+00:00
 layout: post
 categories:
-  - 我的世界
+  - andriod
 tags:
   - nokia
 ---

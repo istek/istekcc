@@ -3,7 +3,7 @@ title: Preparation of Developping Blog
 date: 2007-06-26T16:16:20+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 Under this constructions, I will code a program by using C#. And now I just prepare some dirty work. I don&#8217;t know when it will be released. Infomation will be added once I have a good idea.

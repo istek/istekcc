@@ -3,7 +3,7 @@ title: 修成正果之时已到！
 date: 2008-04-19T19:13:33+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 经过半年多的On Job trainning，修成正果的日子终于到来了！TeamLeader于昨日通知，鉴于我们已经具备assessment的能力，下周三正式在HP西安office答辩，周一晚上我就要去西安了。

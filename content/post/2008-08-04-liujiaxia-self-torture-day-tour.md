@@ -3,7 +3,7 @@ title: 刘家峡自虐一日游
 date: 2008-08-04T07:18:54+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 很宁静的荷塘

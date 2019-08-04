@@ -3,10 +3,9 @@ title: Grub不能引导Windows双硬盘
 date: 2008-10-13T06:05:30+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - grub
-  - Ubuntu
 ---
 
 我的系统两块硬盘，Primary Slave是一块IDE的硬盘，安装了Ubuntu 8.04，还有

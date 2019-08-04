@@ -3,7 +3,7 @@ title: 我的PGP公钥
 date: 2007-10-26T06:11:21+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 tags:
   - gpg
 ---

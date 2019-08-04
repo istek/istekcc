@@ -3,9 +3,7 @@ title: 解读王家卫
 date: 2008-07-05T20:05:49+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - 网文
+  - 文摘
 ---
 ![wjw](https://res.cloudinary.com/the-backyard-of-stanley/image/upload/v1512717811/ninja142122792940093_wr2hjn.jpg)
 <!--more-->

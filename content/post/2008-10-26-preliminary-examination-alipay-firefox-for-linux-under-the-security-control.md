@@ -3,10 +3,9 @@ title: 初试支付宝针对 Linux 下 Firefox 的安全控件
 date: 2008-10-26T02:36:02+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - firefox
-  - linux
 ---
 
 看支付宝的官方博客上发布了支付宝针对 Linux 下 Firefox 的安全控件的消息便第一时间在 OwnLinux 上发布了相关的消息，然后就开始试用支付宝为我们 Linux 用户带来的这一礼物，同时和大家一起分享。先说一下我体验支付宝针对 Linux 下 Firefox 的安全控件的环境： Ubuntu 8.10 Intrepid Ibex (RC) ，FireFox 3.0.2。 在以前没有这个支付宝针对 Linux 下 Firefox 的安全控件的时候访问支付宝在登录框中不能输入密码进行登陆，点击“请点些输入密码”就会弹出一个对话框提示你下载 Firefox 的安全控件。不过，那个是针对 Window 下 Firefox 使用的，如果以后能够自动区分不同的系统并提供相应的软件下载就更好了。

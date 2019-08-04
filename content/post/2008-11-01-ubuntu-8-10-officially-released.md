@@ -3,9 +3,7 @@ title: Ubuntu 8.10正式发布！
 date: 2008-11-01T00:45:48+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - Ubuntu
+  - Linux
 ---
 
 经过了半年的开发，Ubuntu 8.10正式发布了！

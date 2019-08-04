@@ -3,9 +3,9 @@ title: 查看、变更IIS中IUSR_computername的密码
 date: 2007-09-22T14:50:56+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
+tags:
+  - iis
 ---
 
 今天不知道怎么回事，IIS访问出现401.1访问凭据失效的错误。查看了IUSR帐号是启用的，也查看了IUSR帐号的目录权限，还有IIS匿名访问控制，都没有问题，很奇怪的问题，后来自己尝试修改了IUSR的帐号密码，和IIS匿名控制中IUSR的密码，这才好了。为什么会导致这样的问题呢？为什么会出现这样的问题？

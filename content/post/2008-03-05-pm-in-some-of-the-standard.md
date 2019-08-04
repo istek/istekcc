@@ -3,9 +3,8 @@ title: PM中的一些标准
 date: 2008-03-05T23:43:01+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 tags:
-  - hp
   - 工作流程
 ---
 

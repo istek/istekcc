@@ -3,7 +3,7 @@ title: 喜欢《Heroes》的朋友，可以玩一下这个游戏。
 date: 2007-10-02T04:15:56+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 tags:
   - heroes
 ---

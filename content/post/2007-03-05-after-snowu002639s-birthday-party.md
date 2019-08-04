@@ -3,7 +3,7 @@ title: 雪后的生日Party!
 date: 2007-03-05T15:42:00+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 早上起来看到银装素裹啊!
