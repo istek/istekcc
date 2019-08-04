@@ -3,9 +3,9 @@ title: '暧昧Jazz &#8211; I Miss You'
 date: 2006-09-02T15:23:56+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
-  - 音乐
+  - akiko
 ---
 
 2001年，爵士名厂Verve签下这位日本第一的优质女声，开启她自此光芒四射的魅力人生。4张专辑堆砌出如潮好评的佳绩，连续享得SwingJournal Jazz、New Star Award等重量级奖项肯定，销售与排行如日中天，而知名化妆品牌雅诗兰黛的「Defining Beauty Award」，为她戴上了完美女伶的后冠。

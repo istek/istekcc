@@ -3,10 +3,9 @@ title: '[老周推荐]和平之月 &#8211; 兰 VBR192k'
 date: 2006-09-02T16:22:41+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - 和平之月
-  - 软件
 ---
 [请使用电驴下载](ed2k://|file|%E5%92%8C%E5%B9%B3%E4%B9%8B%E6%9C%88.-.%5B%E5%85%B0%28ORCHID%29%5D.%E4%B8%93%E8%BE%91.%28mp3%29.rar|67106351|FF933A058F86C55F82A170CACBA1A9F5|/)
 

@@ -172,7 +172,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   [params.social]                                         # 社交链接
     a-email = "mailto:krazelcn@gmail.com"
     #b-stack-overflow = "http://localhost:1313"
-    c-twitter = "https://twitter.com/stanleyzhou"
+    c-twitter = "https://twitter.com/krazelcn"
     #d-facebook = "http://localhost:1313"
     #e-linkedin = "http://localhost:1313"
     #f-google = "http://localhost:1313"

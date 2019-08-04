@@ -3,9 +3,7 @@ title: 精美的电脑鼠标图标
 date: 2006-04-08T02:28:32+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - 软件分享
+  - WEB
 ---
 
 昨天逛[lbs官方站](http://www.voidland.com/blog/default.asp)的时候,看到了一套lbs自己做的鼠标图标,很精致,漂亮的说,就赶紧收藏下来了,好东西不敢独自享有,赶紧先拿出来跟大家一起分享.

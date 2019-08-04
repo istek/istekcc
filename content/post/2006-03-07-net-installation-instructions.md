@@ -3,7 +3,7 @@ title: .Net安装的相关说明
 date: 2006-03-07T01:50:30+00:00
 layout: post
 categories:
-  - 我的世界
+  - .Net
 tags:
   - 'c#'
 ---

@@ -3,10 +3,9 @@ title: 新金属乐队System of a down《Lonely Day》
 date: 2006-04-12T02:04:47+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - System of a down
-  - 音乐
 ---
 
 作为上世纪90年代中后期涌现出的新金属乐队的杰出代表之一，System Of A Down成功的将80年代的激流金属和日后Jane&#8217;s Addiction式的另类金属风格巧妙的融合在了一起。1995年，System Of A Down乐队由主唱Serj Tankian，吉他手Daron Malakian，贝斯手Shavo Odadjian和鼓手John Dolmayan在南加洲组建。之后，乐队仅依靠一张录有三首歌的小样便在洛杉矶混的小有名气。随后，依靠乐队自身出色的表现，System Of A Down乐队开始名扬全美以及欧洲和新西兰等地。

@@ -3,7 +3,7 @@ title: 'Everything&#039;s changed&#8230;'
 date: 2006-01-18T02:09:35+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 Everything's changed. I imagine that I can have a family early,I feel changed,everything changed.No more careness ,No more love ,No more conversation.All of these were not what I need ,I ask myself whether it shows a kind of ending ,perhaps.

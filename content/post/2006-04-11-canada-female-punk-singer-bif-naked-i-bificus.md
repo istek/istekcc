@@ -3,10 +3,9 @@ title: 加拿大女Punk歌手 Bif Naked 《I Bificus》
 date: 2006-04-11T15:28:57+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - Bif Naked
-  - 音乐
 ---
 
 Bif Naked, 1971年出生在印度New Delhi，被一对美国夫妇收养，然后移居到加拿大中部的一个城市Winnipeg，在University of Winnipeg学习表演专业时，她加入了学校的一支乐队，开始了她的Vocal演唱。她是加拿大相当流行的Punk女歌手，”provocative,sexy and very punk rock”已经成了媒体对Bif歌曲最常见的评价了，她的多张专辑，在Amazon上的用户评选得分基本都是5颗星里能拿到4.5～5的.

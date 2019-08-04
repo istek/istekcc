@@ -3,7 +3,7 @@ title: SQL语法参考
 date: 2006-05-16T01:48:43+00:00
 layout: post
 categories:
-  - 我的世界
+  - sql
 tags:
   - SQL
 ---

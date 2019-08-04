@@ -3,9 +3,7 @@ title: Agent V3.2, Emule MorphXT, Emule StulleMule
 date: 2006-02-15T00:57:26+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - 软件分享
+  - windows
 ---
 
 Agent是专业的新闻组软件，功能颇多，比目前使用的OE比较好，当然，个人有所偏好。今天提供一下AGENT 3.2的下载。

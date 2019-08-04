@@ -3,9 +3,9 @@ title: '使用C#开发一个简单的ASP.net程序留言本'
 date: 2006-07-01T07:35:38+00:00
 layout: post
 categories:
-  - 我的世界
+  - .Net
 tags:
-  - 'c#'
+  - c#
 ---
 
 这个留言本使用的数据库是access 2003，当然你也可以以sql server 2k来做。程序只有3个文件，default.aspx主要用来展示留言及书写留言，checkcode.aspx是验证码的代码文件，admin.aspx 用来管理留言部分，我写的很简单，就是一个功能，删除。

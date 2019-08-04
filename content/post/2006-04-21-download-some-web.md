@@ -3,9 +3,7 @@ title: 一些WEB文档下载
 date: 2006-04-21T15:29:01+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - 软件分享
+  - .NET
 ---
 
 10天学会ASP，内含实例文件。EXE文件

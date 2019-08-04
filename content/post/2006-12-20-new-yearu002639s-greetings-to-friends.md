@@ -3,7 +3,7 @@ title: 给朋友们的新年贺词
 date: 2006-12-20T08:07:54+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 To 我的朋友们：

@@ -3,10 +3,9 @@ title: 舞动精灵-God is girl.
 date: 2006-04-06T01:50:01+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - dj novus
-  - 音乐
 ---
 
 乐队名：groove coverage 舞动精灵

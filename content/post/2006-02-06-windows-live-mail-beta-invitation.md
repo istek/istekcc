@@ -3,7 +3,7 @@ title: Windows Live Mail Beta邀请
 date: 2006-02-06T01:06:18+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 tags:
   - wlm
 ---

@@ -3,10 +3,9 @@ title: 戒情人-郑中基
 date: 2006-03-08T15:48:52+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - 郑中基
-  - 音乐
 ---
 
 你说你最近爱上了一个

@@ -3,10 +3,9 @@ title: 遇见我-曹芳精选曲目
 date: 2006-04-10T16:04:14+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - 曹芳
-  - 音乐
 ---
 
 ——ONE——

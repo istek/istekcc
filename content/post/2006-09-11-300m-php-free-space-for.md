@@ -3,7 +3,7 @@ title: 免费300M PHP空间
 date: 2006-09-11T13:16:37+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - 免费资源
 ---

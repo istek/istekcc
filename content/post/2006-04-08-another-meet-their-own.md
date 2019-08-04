@@ -3,7 +3,7 @@ title: 遇见另一个自己
 date: 2006-04-08T02:46:45+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 在[界于想与不想之间](http://www.wuyawo.com/)的blog上看到了一个测试,挺好玩的,我的测试结果如下:

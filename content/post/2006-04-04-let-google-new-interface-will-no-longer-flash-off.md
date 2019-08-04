@@ -3,7 +3,7 @@ title: 让Google的新版界面不再一闪而过
 date: 2006-04-04T12:11:54+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - Google
 ---

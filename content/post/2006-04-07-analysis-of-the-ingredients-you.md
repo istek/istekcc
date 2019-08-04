@@ -3,7 +3,7 @@ title: 分析你的成分
 date: 2006-04-07T13:01:26+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 今天无意中在[金雨时纷](http://www.krainy.com//default.asp)看到一个关于分析你成分的小测试，很好玩。我的测试结果如下：

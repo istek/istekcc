@@ -1,9 +1,9 @@
 ---
-title: 覆雨翻云！
+title: 覆雨翻云
 date: 2006-01-12T08:11:00+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 ---
 
 ![http://www.zoommovie.com/dvd1/dvd-1-4391.jpg](http://www.zoommovie.com/dvd1/dvd-1-4391.jpg)

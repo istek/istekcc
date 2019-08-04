@@ -3,8 +3,6 @@ title: 计算机注册信息DIY
 date: 2006-04-30T02:20:39+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
 ---
 

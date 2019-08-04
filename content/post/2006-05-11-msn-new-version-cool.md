@@ -3,7 +3,7 @@ title: MSN新版本!!!Cool!
 date: 2006-05-11T04:43:11+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 ---
 
 今天登录msn的时候，通知我安装新版本的messenger。我无法预知新版本的msn会给我带来什么惊喜。

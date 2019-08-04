@@ -3,9 +3,9 @@ title: 图标在线生成器汇总
 date: 2006-06-20T12:17:00+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
-  - hotmail
+  - icon
 ---
 
 厌倦了传统的email格式，恐惧垃圾邮件的骚扰，渴望个性化的邮件图标

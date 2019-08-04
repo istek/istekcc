@@ -3,7 +3,7 @@ title: 微软Windows Live站点增免费域名邮箱服务
 date: 2006-02-23T16:06:47+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - 免费资源
 ---

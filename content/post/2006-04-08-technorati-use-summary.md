@@ -3,10 +3,9 @@ title: Technorati使用小结
 date: 2006-04-08T03:55:25+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - technorati
-  - 免费资源
 ---
 
 最近看到有人在用Technorati，感觉好奇，于是也寻了看。也把自己的blog上加上Technorati标签了。但是网上关于Technorati的使用的介绍少的可怜。找了好几天，才发现Attaboy&#8217;s Blog上的一片日志介绍的比较好。在这里再做一下整理。

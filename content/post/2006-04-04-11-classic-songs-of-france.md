@@ -3,9 +3,7 @@ title: 11首经典法国歌曲
 date: 2006-04-04T06:21:36+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - 音乐
+  - MV
 ---
 1、《巴黎感觉》的片头曲
 

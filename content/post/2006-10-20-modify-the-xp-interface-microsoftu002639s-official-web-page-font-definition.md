@@ -3,8 +3,6 @@ title: 微软官方修改XP界面字体清晰度的网页
 date: 2006-10-20T07:58:22+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
 ---
 

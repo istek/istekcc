@@ -3,7 +3,7 @@ title: 'one moment please&#8230;'
 date: 2006-04-04T07:20:36+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 终于把什么都不能干的铁通拆掉了,换成了中国电信120包月的宽带了,嘿嘿,现在终于又可以用emule下载我最爱的stargate了.

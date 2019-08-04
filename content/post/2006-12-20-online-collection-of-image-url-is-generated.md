@@ -3,7 +3,7 @@ title: 在线生成图片的网址收集
 date: 2006-12-20T04:12:12+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - 免费资源
 ---

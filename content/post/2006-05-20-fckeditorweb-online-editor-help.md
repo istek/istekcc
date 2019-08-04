@@ -3,7 +3,7 @@ title: FCKeditorWeb在线编辑器说明
 date: 2006-05-20T06:02:39+00:00
 layout: post
 categories:
-  - 我的世界
+  - .Net
 tags:
   - fckeditor
 ---

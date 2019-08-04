@@ -3,15 +3,12 @@ title: 'Don&#039;t Wait Too Long'
 date: 2006-09-21T06:02:49+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - madeleine peyroux
-  - 音乐
 ---
 
 这是一首Jazz风格的歌曲，是Madeleine Peyroux演绎得，歌曲风格比较慵懒，很舒服的感觉。试听可到侧边栏MUSIC里面收听。以后每次我换页面歌曲之后，都会将歌曲的下载地址贴出来的。
-
-
 
 Don’t Wait Too Long
 

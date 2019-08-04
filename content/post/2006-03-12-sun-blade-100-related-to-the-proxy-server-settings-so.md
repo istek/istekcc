@@ -3,7 +3,7 @@ title: Sun Blade 100 做代理服务器的相关设置
 date: 2006-03-12T07:52:15+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - freebsd
   - proxy

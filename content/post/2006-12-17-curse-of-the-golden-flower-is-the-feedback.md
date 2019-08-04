@@ -3,7 +3,7 @@ title: 满城尽是黄金甲之观后感
 date: 2006-12-17T18:06:46+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 tags:
   - 电影
 ---

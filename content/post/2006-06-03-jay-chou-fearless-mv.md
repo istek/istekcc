@@ -3,10 +3,9 @@ title: 周杰伦-霍元甲
 date: 2006-06-03T03:15:23+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - 周杰伦
-  - 音乐
 ---
 
 《霍元甲》EP – 台湾签名版

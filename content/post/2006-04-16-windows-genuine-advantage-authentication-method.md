@@ -3,8 +3,6 @@ title: windows正版增值验证方法
 date: 2006-04-16T17:41:18+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
 ---
 

@@ -3,9 +3,7 @@ title: 存储过程的教程
 date: 2006-06-13T12:36:35+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - 数据库
+  - sql
 ---
 
 什么是存储过程呢？

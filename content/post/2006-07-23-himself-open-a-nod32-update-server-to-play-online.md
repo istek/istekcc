@@ -3,7 +3,7 @@ title: 自己开个NOD32在线更新服务器玩!
 date: 2006-07-23T14:39:48+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - 免费资源
 ---

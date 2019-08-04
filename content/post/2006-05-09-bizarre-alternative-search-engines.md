@@ -3,7 +3,7 @@ title: 稀奇古怪另类搜索引擎
 date: 2006-05-09T01:13:34+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - 免费资源
 ---

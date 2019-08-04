@@ -3,7 +3,7 @@ title: Building a DAL using Strongly Typed TableAdapters
 date: 2006-06-11T05:21:22+00:00
 layout: post
 categories:
-  - 我的世界
+  - .Net
 tags:
   - 'c#'
 ---

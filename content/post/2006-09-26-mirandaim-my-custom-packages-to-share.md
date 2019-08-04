@@ -3,9 +3,9 @@ title: MirandaIM-我的自定义包分享
 date: 2006-09-26T15:02:54+00:00
 layout: post
 categories:
- - 我的世界
+ - windows
 tags:
- - 软件分享
+ - mirandaim
 ---
 
 [MirandaIM](http://www.miranda-im.org/) 是一套短小精悍的实时通讯软件，但却拥有几乎无穷尽的功能，ICQ、MSN、YAHOO通吃、通讯纪录自动存盘、联络人多层分类、更换面板声音及图标，甚至还有生日提醒天气查讯… 数也数不尽的功能，一毛钱也不用花！

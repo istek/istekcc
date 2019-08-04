@@ -3,7 +3,7 @@ title: Lonely Feeling
 date: 2006-09-16T03:12:50+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 What I need is that it makes life be easy!I don&#8217;t have any great blue print, &#8217;cause I&#8217;m nobody, I&#8217;m not faithful that could be a great man,which can give you everything you want.

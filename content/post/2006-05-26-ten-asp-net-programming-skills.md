@@ -3,9 +3,9 @@ title: ASP.NET编程中的十大技巧
 date: 2006-05-26T06:56:08+00:00
 layout: post
 categories:
-  - 我的世界
+  - .Net
 tags:
-  - 'c#'
+  - c#
 ---
 
 在本篇中，我们将讨论编程人员在使用ASP.NET开发应用程序时需要注意的10个技巧，这些技巧涉及从缺省的控件、表单名的改变到StringBuilder类的使用，有助于编程人员能够尽快地适应.NET环境。

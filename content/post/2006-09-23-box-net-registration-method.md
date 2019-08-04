@@ -3,7 +3,7 @@ title: BOX.NET注册方法
 date: 2006-09-23T16:10:13+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - 免费资源
 ---

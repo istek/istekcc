@@ -3,7 +3,7 @@ title: 想要gmail的朋友看看吧。
 date: 2006-05-20T07:16:56+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - Google
 ---

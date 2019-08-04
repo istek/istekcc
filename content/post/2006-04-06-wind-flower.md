@@ -1,14 +1,11 @@
 ---
-id: 274
 title: 风之花
 date: 2006-04-06T01:53:26+00:00
 layout: post
-guid: http://www.mstz.us/?p=274
 categories:
-  - 我的世界
+  - MV
 tags:
   - windflowers
-  - 音乐
 ---
 今天翻看以前的文件，无意中发现了一首好听的老歌：齐秦齐豫版的Windflowers（风之花），查看了歌曲文件的日期，竟然是1998年的。
 
