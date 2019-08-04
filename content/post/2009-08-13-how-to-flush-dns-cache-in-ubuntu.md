@@ -3,10 +3,9 @@ title: How to flush dns cache in Ubuntu?
 date: 2009-08-13T09:30:38+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - nscd
-  - Ubuntu
 ---
 Some distributions run a caching nameserver in the background out of the box while some do not. To clear the cache if you have such a daemon running, simply restart the nscd service in ubuntu.
 

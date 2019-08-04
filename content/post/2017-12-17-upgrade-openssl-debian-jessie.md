@@ -3,8 +3,9 @@ title: Debian 8 升级openssl
 date: 2017-12-17 15:14:30
 layout: post
 tags: 
-  - Debian
   - openssl
+categories:
+  - Linux
 ---
 # Debian 8.X 'Jessie' 升级OpenSSL 1.0.2l
 

@@ -3,12 +3,11 @@ title: 在CentOS 6.2上安装Nginx+PHP5(PHP-FPM)+MySQL
 date: 2012-07-03T08:01:34+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
   - nginx
   - php
-  - 数据库
+  - mysql
 ---
 
 ### 1.使用非官方软件源

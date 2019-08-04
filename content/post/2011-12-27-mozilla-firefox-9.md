@@ -3,7 +3,7 @@ title: Mozilla Firefox 9
 date: 2011-12-27T04:08:43+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - firefox
 ---

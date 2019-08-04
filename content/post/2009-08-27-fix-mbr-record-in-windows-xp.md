@@ -3,10 +3,9 @@ title: Fix mbr record in windows xp
 date: 2009-08-27T20:04:18+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 tags:
   - fixmbr
-  - windows
 ---
 Yesterday i reinstalled my ubuntu, but i don’t know how to destory my mbr record. I’ve 2 hard drives, one is 120G IDE hard drive installed Ubuntu, the other is 250G SATA harddrive installed Window Xp. And usually 120G harddrive is my first boot disk, and grub should be installed there. But last night i installed Grub2, I don’t know how to rewrite my 250g disk’s mbr.
 

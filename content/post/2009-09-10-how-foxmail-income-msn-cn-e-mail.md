@@ -3,10 +3,9 @@ title: 如何用foxmail收msn.cn邮件
 date: 2009-09-10T05:10:09+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 tags:
   - hotmail
-  - windows
 ---
 
 我不想使用Windows Live Mail收取msn信箱，寻找一个能用foxmail接受MSN或者HOTMAIL信箱的软件，搜索了半天，终于[找到](http://hi.baidu.com/habbyn/blog/item/4553c0fcb6a598fdfc037fc9.html)了。

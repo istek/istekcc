@@ -3,7 +3,7 @@ title: Wordpres和Ghost博客互转
 date: 2017-06-19T12:29:50+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - ghost
   - wordpress

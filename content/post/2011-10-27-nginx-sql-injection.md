@@ -3,7 +3,7 @@ title: nginx预防SQL注入的方法
 date: 2011-10-27T02:19:11+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - nginx
 ---

@@ -3,9 +3,9 @@ title: ArchLinux2012.09.07安装配置说明
 date: 2012-09-11T16:35:35+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - arch
+  - archlinux
 ---
 最近心血来潮，想用一下大家都在说很好的一个Linux发行版，[archlinux](http://www.archlinux.org/)。目前在网易镜像上最新的ISO是2012.09.07版，这个版本的改变比较大，主要改变如下：
 

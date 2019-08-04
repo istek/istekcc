@@ -3,9 +3,9 @@ title: oracle静默方式建库
 date: 2017-03-17T19:24:59+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - 数据库
+  - oracle
 ---
 
 有时候，真的不愿意用xmanager连服务器，再用GUI界面去创建、删除数据库，所以摸索了一下静默方式。以下内容是以oracle11gR2为参照版本的。

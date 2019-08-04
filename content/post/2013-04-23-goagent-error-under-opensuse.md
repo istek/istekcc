@@ -3,9 +3,10 @@ title: goagent在openSUSE 12.3下的问题总结
 date: 2013-04-23T03:54:29+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - opensuse
+  - goagent
 ---
 
 openSUSE 项目是由 Novell 发起的开源社区计划。 旨在推进 Linux 的广泛使用，提供了自由简单的方法来获得世界上最好用的 Linux 发行版之一openSUSE。该项目由SUSE等公司赞助，2011年Attachmate集团收购了Novell，并把Novell和SUSE做为两个独立的子公司运营。openSUSE 操作系统和相关的开源程序会被SUSE Linux Enterprise（比如 SLES 和 SLED）使用。openSUSE对个人来说是完全免费的，包括使用和在线更新。

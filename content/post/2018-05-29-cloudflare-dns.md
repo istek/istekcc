@@ -3,7 +3,9 @@ title: "Cloudflare DNS"
 date: 2018-05-29 23:34:00
 layout: post
 tags: 
-  - 随笔
+  - dns
+categories:
+  - windows
 ---
 ![Cloudflare](https://qn.zhoutao.ren/img/20180529-233314.png)
 

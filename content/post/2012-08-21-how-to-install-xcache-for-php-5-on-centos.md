@@ -3,9 +3,9 @@ title: How to Install XCache for PHP 5 on CentOS
 date: 2012-08-21T09:16:39+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
+  - php
   - xcache
 ---
 

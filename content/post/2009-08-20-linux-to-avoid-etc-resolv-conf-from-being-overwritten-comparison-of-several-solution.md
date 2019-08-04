@@ -3,10 +3,9 @@ title: Linux 中避免 /etc/resolv.conf 被改写 + 几种解决办法的比较
 date: 2009-08-20T21:01:15+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - linux
-  - 使用技巧
+  - resolv.conf
 ---
 
 最近又遇到`/etc/resolv.conf`会定时被改写掉的问题了，这回是在FreeBSD中！

@@ -3,7 +3,7 @@ title: '酷狗音乐硬盘 &#8211; 免费稳定的MP3外链服务'
 date: 2010-03-04T03:00:56+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - 免费资源
 ---

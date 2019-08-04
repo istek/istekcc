@@ -3,9 +3,8 @@ title: Install Sun/Oracle Java JDK/JRE 6u29 on Fedora 16/15, CentOS/RHEL 6/5.7(�
 date: 2011-11-22T02:00:42+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
   - jdk
 ---
 **Please note: This guide still working normally if you want install Sun/Oracle Java 6, but if you want latest Java 7 version, then check [Howto Install Sun/Oracle Java JDK/JRE 7 on Fedora 16/15, CentOS 6/5.7 and Red Hat (RHEL) 6.1/6/5.7](http://www.if-not-true-then-false.com/2010/install-sun-oracle-java-jdk-jre-7-on-fedora-centos-red-hat-rhel/ "Install Sun/Oracle Java JDK/JRE 7 on Fedora 16/15, CentOS/Red Hat (RHEL) 6.1/6/5.7").** By default, Fedora 16/15/14/13/12 and CentOS/Red Hat (RHEL) 6/5.7 Linux operating systems use the OpenJDK Java, which is a good choice for normal use and it works with almost all the Java programs normally. OpenJDK is also easy to install and maintain with YUM package management, but some cases, Sun/Oracle Java installation is necessary, for example, if some program have to compile with Sun/Oracle Java or a particular program does not work without Sun/Oracle Java.

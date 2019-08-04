@@ -3,10 +3,9 @@ title: 'RHEL 5: How to install Oracle10g'
 date: 2014-02-25T05:58:34+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - RHEL
-  - 数据库
+  - oracle
 ---
 该文档适用于RHEL 5系列操作系统下面安装Oracle10G。
 

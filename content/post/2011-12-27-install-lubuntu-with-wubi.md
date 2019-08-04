@@ -3,9 +3,9 @@ title: Wubi安装Lubuntu
 date: 2011-12-27T19:39:22+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - Ubuntu
+  - wubi
 ---
 
 想使用Ubuntu的Windows用户，又不想重新分区安装的，不可或缺的安装工具就是Wubi了。Wubi在下载的系统镜像中就有，这里要说的是要用它安装Lubuntu，因为在该工具的可安装的系统的选择项中并没有Lubuntu。

@@ -3,9 +3,8 @@ title: 使用Screen使程序继续运行
 date: 2012-07-09T07:08:11+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
   - screen
 ---
 

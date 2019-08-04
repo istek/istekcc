@@ -3,7 +3,7 @@ title: God damn!!! I hate the way you did!
 date: 2009-09-05T08:07:57+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 As we know, several days ago China goverment has blocked .co.cc domain, right now i just wanna show you how i m angry!

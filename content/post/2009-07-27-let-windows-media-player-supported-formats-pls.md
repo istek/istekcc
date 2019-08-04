@@ -3,9 +3,9 @@ title: 让Windows Media Player支持PLS格式
 date: 2009-07-27T01:03:20+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
+tags:
+  - wmp
 ---
 
 今天晚上想听一会[shoutcast](http://www.shoucast.com/)的音乐广播，于是打开网站，用网站自带的播放器，不知道怎么回事，一直循环着两首歌曲，很郁闷，总以为是自己的网络有问题，于是设置了用系统自带的播放器播放，可惜的是Windows Media Player不支持shoutcast的pls格式，该格式文件是Winamp播放器的专用播放列表文件，而我电脑里面却只安装了千千静听，这软件不支持PLS格式，很头疼，总不能再让我安装一个Winamp吧，于是google了一下。

@@ -3,9 +3,9 @@ title: Create Your Own Socks5 proxy
 date: 2010-04-23T03:32:23+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - linux
+  - ssh
   - proxy
 ---
 

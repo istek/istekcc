@@ -3,9 +3,9 @@ title: 'Flatabulous : Ubuntu Theme'
 date: 2015-12-18T06:19:44+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - Ubuntu
+  - flatabulous
 ---
 ![Poster](https://res.cloudinary.com/the-backyard-of-stanley/image/upload/v1451036121/tv3II6s_mcirxg.png)
 

@@ -3,10 +3,9 @@ title: Radiotray-相当小巧的linux广播软件
 date: 2011-11-18T03:14:41+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - radiotray
-  - Ubuntu
 ---
 
 今天在ubuntu中文论坛看帖子时，发现了这个好东西。喜欢听广播的朋友，一定不能错过这款软件。其他发行版应该也能安装。增加了下面的播放列表后，可以在线收听台湾和日本电台。

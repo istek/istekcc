@@ -3,10 +3,9 @@ title: Pureftpd完全配置
 date: 2012-07-10T07:52:00+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
-  - pure-ftpd
+  - pureftpd
 ---
 这篇文档描述了在CentOS 6.2下安装Pureftpd服务器，包括使用MySQL的虚拟用户，磁盘配额，带宽管理，TLS加密会话和集成病毒检查功能。
 

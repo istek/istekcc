@@ -3,10 +3,9 @@ title: Linux下在线扩LV
 date: 2015-12-08T06:14:55+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - RHEL
-  - 使用技巧
+  - lvm
 ---
 以前从来没有在Linux下面扩过LV，LVM逻辑卷管理很多都是使用在Unix类系统的，如HP-UX,AIX此类的，之后，在kernel 2.4版本实现的。扩lv的一般步骤其实大同小异，建PV，扩卷组，扩LV，伸缩文件系统，在HP-UX下，必须是离线操作的，也就是umount挂载点，然后扩LV的。
 

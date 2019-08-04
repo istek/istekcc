@@ -4,6 +4,8 @@ date: 2017-12-20 10:35:30
 layout: post
 tags: 
   - python
+categories:
+  - python
 ---
 ##　安装python3
 

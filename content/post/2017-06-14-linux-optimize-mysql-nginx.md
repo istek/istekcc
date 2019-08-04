@@ -3,9 +3,9 @@ title: Linux系统参数调优参考
 date: 2017-06-14T21:48:35+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - linux
+  - sysctl
 ---
 
 # 一、系统参数调优

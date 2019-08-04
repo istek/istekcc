@@ -3,7 +3,7 @@ title: tomcat 6/7 优化
 date: 2017-03-17T19:03:57+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - tomcat
 ---

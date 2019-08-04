@@ -3,7 +3,7 @@ title: WordPress标题和KEYWORDS优化
 date: 2009-09-26T06:58:07+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - wordpress
 ---

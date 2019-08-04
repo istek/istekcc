@@ -3,9 +3,9 @@ title: 找回清空的回收站内容
 date: 2010-04-26T01:12:30+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
+tags:
+  - easyrecovery
 ---
 
 **方法一：手动**

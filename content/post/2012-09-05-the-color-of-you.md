@@ -3,7 +3,7 @@ title: "Lisa Ekdah - The color of you"
 date: 2012-09-05T21:05:10+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - Lisa Ekdah
 ---

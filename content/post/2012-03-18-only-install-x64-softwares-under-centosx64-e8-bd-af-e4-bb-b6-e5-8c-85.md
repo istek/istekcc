@@ -3,9 +3,9 @@ title: 在64位的 CentOS 上只安装64位的软件包
 date: 2012-03-18T08:07:08+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
+  - yum
 ---
 
 在 64位版本的 CentOS 5.4 上使用 yum 安装软件包的时候如果不小心的话会同时安装 i386 和 x86_64 版本的软件，如下面安装的 httpd-devel 就有 i386 和 x86_64 两个版本：

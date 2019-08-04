@@ -3,8 +3,9 @@ title: "在debian上安装Flarum论坛"
 date: 2018-05-11 11:30:00
 layout: post
 tags: 
-  - Debian
   - flarum
+categories:
+  - Linux
 ---
 
 给兰州linux爱好者建了一个论坛，使用了flarum论坛，因为使用的是nginx，所以伪静态还需要自己添加。

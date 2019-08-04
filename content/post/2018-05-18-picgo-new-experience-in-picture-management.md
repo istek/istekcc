@@ -4,6 +4,8 @@ date: 2018-05-18 23:13:00
 layout: post
 tags: 
   - PicGo
+categories:
+  - windows
 ---
 [![](https://user-images.githubusercontent.com/12621342/33876119-85a5148e-df5f-11e7-8843-46224e595d52.png)](https://github.com/Molunerfinn/PicGo)
 

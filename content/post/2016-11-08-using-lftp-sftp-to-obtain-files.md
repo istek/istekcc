@@ -3,10 +3,10 @@ title: 使用lftp与sftp获取远端文件脚本
 date: 2016-11-08T21:26:36+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - lftp
-  - RHEL
+  - bash
 ---
 因为工作的原因，需要每日使用sftp获取远程主机上的文件，所以就在想能不能脚本化，这样就不用天天定时定点的在服务器前面守着了。
 

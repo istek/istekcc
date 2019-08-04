@@ -3,7 +3,7 @@ title: 2009-2-4 Love is blooming everywhere
 date: 2009-02-05T05:44:18+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 爱情到处盛开。

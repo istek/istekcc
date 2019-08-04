@@ -3,7 +3,7 @@ title: 推荐云存储网盘——够快
 date: 2011-01-10T13:10:18+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - 云存储
 ---

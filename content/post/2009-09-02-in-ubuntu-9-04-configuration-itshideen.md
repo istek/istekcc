@@ -3,10 +3,9 @@ title: 在Ubuntu 9.04配置itshideen
 date: 2009-09-02T05:15:49+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - itshidden
-  - Ubuntu
 ---
 To use the VPN service provided by [ItsHidden.com](http://itshidden.com/), complete the following steps (that were partially found in [this Ubuntu forum thread](http://ubuntuforums.org/showthread.php?t=1224517)):
 

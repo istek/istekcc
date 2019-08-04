@@ -2,10 +2,9 @@
 title: WINDOWS下部署WEBLOGIC11G集群手册
 date: 2017-12-02T22:56:28+00:00
 layout: post
-categories:
-  - 我的世界
 tags:
   - weblogic
+categories:
   - windows
 ---
 我们项目实施部经常会遇到部署weblogic的问题，中间件我们平时主要使用tomcat和weblogic，但是从稳定性、内存消耗、应用管理部署等方面看，weblogic更胜一筹，可惜的是，虽然可以从oracle官方网站下载到安装程序，但是漏洞补丁的修复，仍然需要购买服务才能获得，否则很尴尬，一旦被局方扫描到漏洞后，处理起来很费劲，例如我们公司就没有购买weblogic服务。

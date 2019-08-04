@@ -3,7 +3,7 @@ title: Firefox简单优化加速浏览
 date: 2012-09-14T02:08:00+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - firefox
 ---

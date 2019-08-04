@@ -3,7 +3,7 @@ title: WordPress for Blackberry
 date: 2011-01-06T03:55:09+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - wordpress
   - 黑莓

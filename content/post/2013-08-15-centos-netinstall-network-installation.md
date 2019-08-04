@@ -3,9 +3,8 @@ title: 网络安装CentOS 5.9
 date: 2013-08-15T23:20:38+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
   - netinstall
 ---
 

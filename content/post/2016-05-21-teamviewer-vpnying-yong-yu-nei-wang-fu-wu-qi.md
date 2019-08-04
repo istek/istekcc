@@ -3,10 +3,9 @@ title: TeamViewer VPN应用于内网服务器
 date: 2016-05-21T06:28:26+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 tags:
   - teamviewer
-  - 使用技巧
 ---
 
 有时候我们会遇到如下的情况：

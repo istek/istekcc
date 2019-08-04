@@ -2,8 +2,8 @@
 title: 般若心経 コーラス ver. (heartsutra cho ver.) / 薬師寺寛邦(キッサコ)
 date: 2017-12-20 15:39:30
 layout: post
-tags: 
-  - 音乐
+categories:
+  - MV
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/958qchBNs60" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

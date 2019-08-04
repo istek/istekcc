@@ -3,7 +3,7 @@ title: 让WordPress支持中文用户名
 date: 2009-08-11T07:37:25+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - wordpress
 ---

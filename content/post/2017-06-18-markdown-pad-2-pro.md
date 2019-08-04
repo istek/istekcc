@@ -3,9 +3,9 @@ title: MarkdownPad 2 Pro
 date: 2017-06-18T23:17:02+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 tags:
-  - 软件分享
+  - markdownpad
 ---
 
 此为中文专业破解版，需要的朋友抓紧下载，若资源失效，请联系我。

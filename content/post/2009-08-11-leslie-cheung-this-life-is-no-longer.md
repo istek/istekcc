@@ -3,7 +3,7 @@ title: '张国荣 &#8211; 今生不再'
 date: 2009-08-11T01:59:39+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - 张国荣
 ---

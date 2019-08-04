@@ -3,9 +3,7 @@ title: Twitter办公室一游
 date: 2009-08-25T00:59:21+00:00
 layout: post
 categories: 
-  - 我的世界
-tags:
-  - 网文
+  - 文摘
 ---
 
 [Twitter办公室一游](http://pics520.com/google-amazing-office1210.htm)

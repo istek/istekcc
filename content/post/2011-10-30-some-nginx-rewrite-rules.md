@@ -3,7 +3,7 @@ title: some nginx rewrite rules
 date: 2011-10-30T23:18:18+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - nginx
 ---

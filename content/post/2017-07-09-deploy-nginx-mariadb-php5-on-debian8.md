@@ -2,11 +2,10 @@
 title: Debian 8 VPS部署nmp环境
 date: 2017-07-09T18:19:49+00:00
 layout: post
-categories:
-  - 我的世界
 tags:
-  - Debian
-  - 使用技巧
+  - lnmp
+categories:
+  - Linux
 ---
 
 因为咱们一般购买的vps都是小内存，所以内存很重要，如果安装时不使用适合的调优参数，就会使得内存非常紧张，甚至，VPS也会无缘无故的出现各种问题。

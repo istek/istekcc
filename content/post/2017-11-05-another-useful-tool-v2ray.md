@@ -2,10 +2,10 @@
 title: V2ray，一个值得信赖的新工具
 date: 2017-11-05T10:01:38+00:00
 layout: post
-categories:
-  - 我的世界
 tags:
   - v2ray
+categories:
+  - Linux
 ---
 
 # 多协议支持

@@ -3,7 +3,7 @@ title: Ghost本地化教程
 date: 2017-06-25T23:00:56+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - ghost
 ---

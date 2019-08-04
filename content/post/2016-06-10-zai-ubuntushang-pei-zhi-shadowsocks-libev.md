@@ -3,9 +3,9 @@ title: 在Ubuntu上配置shadowsocks-libev
 date: 2016-06-10T06:31:03+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - Ubuntu
+  - SS
 ---
 [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)是一款轻量级且功能丰富，面向嵌入式设备和低端VPS的SOCKS5代理软件。该软件以C语言开发，占用存储空间非常小，大概就几兆，能处理数千的连接。在运行时，占用内存约600K，CPU使用率不会超过5%。目前该开源软件由[@madeya](https://github.com/madeye)和[@linusyang](https://github.com/linusyang)负责维护。
 

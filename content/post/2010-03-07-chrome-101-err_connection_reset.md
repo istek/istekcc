@@ -3,7 +3,7 @@ title: “Chrome 101 (net::ERR_CONNECTION_RESET):未知错误”的解决办法
 date: 2010-03-07T09:17:43+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - Google
 ---

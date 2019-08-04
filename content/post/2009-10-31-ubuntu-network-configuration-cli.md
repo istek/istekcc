@@ -3,9 +3,9 @@ title: Ubuntu网络配置
 date: 2009-10-31T10:24:11+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - Ubuntu
+  - network
 ---
 
 ### 1.以DHCP方式配置网卡

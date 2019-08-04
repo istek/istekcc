@@ -3,9 +3,9 @@ title: KeePass无法在LinuxMint下显示系统栏图标
 date: 2016-07-17T06:34:40+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - linuxmint
+  - keepass
 ---
 KeePass Password Safe是一个密码保管软件，现在的密码要求已经越来越复杂了，另外，我觉得自己的脑子也无法记住各种网站的密码，所以一直在使用这款软件用来保管密码。KeePass有一个非常好的方面，就是支持Linux，Windows，而且通过浏览器输入密码的KeePass插件都有的，很方便。
 

@@ -3,10 +3,10 @@ title: Virtual Hosting With Proftpd And MySQL (Incl. Quota) On Ubuntu 9.10
 date: 2010-03-05T05:41:28+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - proftpd
-  - Ubuntu
+  - mysql
 ---
 This document describes how to install a Proftpd server that uses virtual users from a MySQL database instead of real system users. This is much more performant and allows to have thousands of ftp users on a single machine. In addition to that I will show the use of quota with this setup.
 

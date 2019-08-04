@@ -6,7 +6,7 @@ draft: false
 tags: 
   - Ubuntu
 categories:
-  - 分享
+  - Linux
 ---
 
 Ubuntu/linuxmint远程桌面windows

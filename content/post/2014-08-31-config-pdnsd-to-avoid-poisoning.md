@@ -3,10 +3,9 @@ title: Linux下使用pdnsd突破污染
 date: 2014-08-31T06:04:31+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - pdnsd
-  - Ubuntu
 ---
 GFW犯贱无非有三招：IP封锁、关键词检测、还有我最痛恨的DNS污染。
 

@@ -3,9 +3,9 @@ title: U盘量产
 date: 2009-09-20T21:15:08+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 tags:
-  - USB系统
+  - chip genuis
 ---
 
 昨天给本子装Ubuntu，重新格式化了自己的U盘，Kingston Data Traveler 4G，之后用老毛桃U盘PE制作工具，重新给U盘灌系统，结果做好后，笔记本上U盘不能启动，总是出现下面的错误。

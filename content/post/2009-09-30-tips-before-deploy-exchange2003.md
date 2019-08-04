@@ -3,7 +3,7 @@ title: 关于部署Exchange 2003的几个需要注意的地方
 date: 2009-09-30T19:46:52+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 tags:
   - exchange2003
 ---

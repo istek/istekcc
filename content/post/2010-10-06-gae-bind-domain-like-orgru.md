@@ -3,7 +3,7 @@ title: GAE搭建博客中域名绑定设置
 date: 2010-10-06T08:53:38+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - Google
 ---

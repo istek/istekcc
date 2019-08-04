@@ -3,7 +3,7 @@ title: 名爵锐腾新车评测
 date: 2015-09-20T06:08:40+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - MG GS
 ---

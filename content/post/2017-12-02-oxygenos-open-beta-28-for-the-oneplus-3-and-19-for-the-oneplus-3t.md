@@ -2,10 +2,10 @@
 title: OxygenOS Open Beta 28 for the OnePlus 3 and 19 for the OnePlus 3T
 date: 2017-12-02T13:37:32+00:00
 layout: post
-categories:
-  - 我的世界
 tags:
   - oneplus
+categories:
+  - andriod
 ---
 一加手机氧公测版在11月30日发布了openbeta 28，本次更新的内容如下：
 

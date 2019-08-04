@@ -4,7 +4,8 @@ date: 2017-12-12 22:53:30
 layout: post
 tags: 
   - nfs
-  - centos
+categories:
+  - Linux
 ---
 # NFS配置要点
 

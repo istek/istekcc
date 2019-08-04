@@ -3,9 +3,9 @@ title: 通过升级BIOS激活WIN VISTA SP2/WIN7
 date: 2010-01-10T05:23:30+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
+tags:
+  - slic
 ---
 
 去年已经体验过WIN7 BETA了，最近想将自己的笔记本和台式机升级一下系统，毕竟守着WINXP是不现实的，时代在进步，我们这些IT人的思想也要开阔和放开些。beta的时候，使用ms提供的序列号使用了一些日子，说实话，界面很华丽，就是操作上与WINXP完全不同，毕竟内核已经提升至6.0了，可以说与WINXP不是一个档次的。

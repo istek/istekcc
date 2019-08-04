@@ -3,7 +3,7 @@ title: 一些台湾和香港的DNS Server
 date: 2009-09-08T19:15:22+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - 免费资源
 ---

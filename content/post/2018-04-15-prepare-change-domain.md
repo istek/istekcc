@@ -2,7 +2,7 @@
 title: "本站准备更换域名"
 date: 2018-04-15 00:33:50
 layout: post
-tags: 
+categories:
   - 随笔
 ---
 鉴于现在godaddy的续费越来越高，准备放弃这个org域名，重新注册一个.net或者.xyz域名，打算在namesilo注册管理，唉。

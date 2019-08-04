@@ -3,9 +3,9 @@ title: Linux Mint 12 “Lisa” released!
 date: 2011-11-28T17:38:46+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - linuxmint
+  - news
 ---
 The team is proud to announce the release of Linux Mint 12 “Lisa”.
 

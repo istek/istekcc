@@ -3,9 +3,9 @@ title: DbVisualizer的date和timestamp傻傻分不清
 date: 2016-01-06T06:25:45+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 tags:
-  - 使用技巧
+  - DbVisualizer
 ---
 最近在使用DbVisualizer[^1]，发现这个工具比PL/SQL Developer好用多了，我们公司的产品主要是跑在oracle数据库的。
 

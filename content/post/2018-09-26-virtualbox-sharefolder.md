@@ -6,7 +6,7 @@ layout: post
 tags:
   - virtualbox
 categories:
-  - 分享
+  - Linux
 ---
 
 ## 宿主机情况

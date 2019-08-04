@@ -3,9 +3,8 @@ title: Linux RHEL5 双网卡绑定
 date: 2012-12-26T19:08:47+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - RHEL
   - trunk
 ---
 

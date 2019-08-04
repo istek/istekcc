@@ -3,9 +3,9 @@ title: HP 540笔记本通过OEM方式激活WIN7
 date: 2010-01-14T21:58:26+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
+tags:
+  - slp
 ---
 
 我的笔记本式HP 540，前些日子使用软激活方式，无法激活，最后使用了神key激活了。我的本子无法升级BIOS使之支持SLIC 2.1，于是我想既然本子是惠普的，一定有一种OEM的方式能激活，于是搜索之，发现了方法，特共享出来。

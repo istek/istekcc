@@ -3,10 +3,9 @@ title: WIN7配置jdk
 date: 2014-08-30T06:02:23+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 tags:
   - jdk
-  - windows
 ---
 ## 配置环境变量
 

@@ -3,7 +3,7 @@ title: Kopete下使用gtalk
 date: 2012-09-14T02:17:16+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - kopete
 ---

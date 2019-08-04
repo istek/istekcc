@@ -3,7 +3,7 @@ title: 关于免费的博客主机
 date: 2009-09-14T03:08:29+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - 免费资源
 ---

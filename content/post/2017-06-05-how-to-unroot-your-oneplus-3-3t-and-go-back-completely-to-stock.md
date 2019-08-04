@@ -3,7 +3,7 @@ title: How to Unroot your OnePlus 3 / 3T and go back completely to stock
 date: 2017-06-05T19:13:07+00:00
 layout: post
 categories:
-  - 我的世界
+  - andriod
 tags:
   - oneplus3
 ---

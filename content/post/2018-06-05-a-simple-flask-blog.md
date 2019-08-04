@@ -3,6 +3,8 @@ title: "一个简单的flask框架博客"
 date: 2018-06-05 20:22:00
 layout: post
 tags: 
+  - flask
+categories:
   - python
 ---
 

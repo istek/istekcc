@@ -3,7 +3,7 @@ title: HP-UX下OC4J的故障处理二例
 date: 2012-11-23T00:09:14+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - hpux
   - oc4j

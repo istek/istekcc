@@ -3,7 +3,7 @@ title: 以爱为名
 date: 2009-08-22T18:50:38+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 寂寞的酒杯，
 

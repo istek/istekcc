@@ -3,10 +3,9 @@ title: OpenSSH更新办法
 date: 2016-11-28T19:13:25+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - openssh
-  - RHEL
 ---
 局方提供了一份安全扫描文件，提示两台服务器的openssh有漏洞，需要修补漏洞，鉴于此，更新系统的openssh到最新版本。
 

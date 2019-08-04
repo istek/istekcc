@@ -3,9 +3,9 @@ title: RIM股价16美元创下7年新低 或遭微软谷歌收购
 date: 2011-11-27T19:49:12+00:00
 layout: post
 categories:
-  - 我的世界
+  - 文摘
 tags:
-  - 黑莓
+  - rim
 ---
 感谢: 春天会再来  投稿  文章来源: [CNBETA](http://www.cnbeta.com/articles/163534.htm "春天会再来")
 

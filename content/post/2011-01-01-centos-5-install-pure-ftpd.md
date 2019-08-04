@@ -3,10 +3,9 @@ title: CentOS 5.5安装Pure-ftpd-mysqlless
 date: 2011-01-01T09:55:51+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
-  - pure-ftpd
+  - pureftpd
 ---
 最近想更换一个FTP软件，看到Pure-FTPd不错，对客户端编码支持比较好，尤其是现在我同事大多使用WINDOWS，如果使用VSFTPD，上传上去的文档之类的全部是乱码，而且Pure-Ftpd还可以很方便的打开TLS认证，于是乎先卸载了原本安装的VSFTPD软件，先`yum search pure`，发现有`Pure-FTPD`，嘿嘿，直接YUM安装即可。
 

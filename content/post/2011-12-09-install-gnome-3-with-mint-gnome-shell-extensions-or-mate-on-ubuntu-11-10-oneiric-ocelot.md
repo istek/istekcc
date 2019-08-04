@@ -3,9 +3,9 @@ title: Install GNOME 3 (With Mint GNOME Shell Extensions) Or Mate On Ubuntu 11.1
 date: 2011-12-09T22:57:45+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - Ubuntu
+  - gnome
 ---
 
 > Version 1.0

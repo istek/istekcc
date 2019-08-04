@@ -3,10 +3,10 @@ title: weblogic前端代理应用于nginx
 date: 2017-06-25T10:56:27+00:00
 layout: post
 categories:
-- 我的世界
+  - Linux
 tags:
-- nginx
-- RHEL
+  - nginx
+  - weblogic
 ---
 
 # 前言

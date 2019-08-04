@@ -3,7 +3,9 @@ title: "安装Ubuntu 18.04之后需要做的事情"
 date: 2018-05-11 17:18:00
 layout: post
 tags: 
-  - Ubuntu
+  - ubuntu
+categories:
+  - Linux
 ---
 youtube上看到的，分享给各位，看看思路是否一致。
 

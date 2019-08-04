@@ -3,7 +3,7 @@ title: 使用U盘安装RHEL 5.5
 date: 2014-08-30T06:00:28+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - RHEL
 ---

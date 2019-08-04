@@ -3,9 +3,9 @@ title: CentOS 5 可用源记录
 date: 2011-10-29T09:16:44+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
+  - yum
 ---
 
 用了一段时间CentOS5，主要用来做iptables+tc的网关，还有几台在做web服务器，也收集了一些非常有用的源，作为备份留存。

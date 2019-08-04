@@ -3,9 +3,9 @@ title: 全国DNS地址收集
 date: 2009-08-30T05:28:39+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
-  - 免费资源
+  - dns
 ---
 
 电信DNS列表 — 按拼音排序

@@ -3,7 +3,7 @@ title: HONDA CBF 1000 my ultimate dream!
 date: 2011-09-24T14:26:59+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - honda
 ---

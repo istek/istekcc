@@ -3,9 +3,9 @@ title: 来自玛格丽特@苏培育开源 NGO 的一些思考
 date: 2013-04-16T21:12:17+00:00
 layout: post
 categories:
-  - 我的世界
+  - 文摘
 tags:
-  - 网文
+  - opensuse
 ---
 
 这是周六北京 GNOME 小组活动 openSUSE 社区的讲稿。撰稿人是我。主讲人是来自 SuSE 的 Lance Wong。另有 PPT [在此](https://owncloud-opensuse.rhcloud.com/public.php?service=files&t=ba27891c427dc02bfbcf880e59a4f3cd "ppt")大家来自不同的社区，面对的问题也不同。我这次先来拨一拨 openSUSE 中文社区这只洋葱。

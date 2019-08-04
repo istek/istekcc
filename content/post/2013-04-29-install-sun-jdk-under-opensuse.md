@@ -3,7 +3,7 @@ title: openSUSE 12.3安装sun jdk 1.6.0_45
 date: 2013-04-29T02:44:57+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - jdk
   - opensuse

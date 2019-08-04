@@ -3,9 +3,9 @@ title: '使用Let&#8217;s Encrypt加密WEB网站'
 date: 2016-06-14T06:33:26+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - Debian
+  - SSL
   - "Let's Encrypt"
 ---
 Let’s Encrypt是一家新成立的CA证书机构，它提供了免费的TLS/SSL证书，整个申请证书，安装证书的过程全部自动化，免去了网站站长对于SSL知识的要求以及繁琐的操作，并且，它是开源的。

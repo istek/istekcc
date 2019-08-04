@@ -3,9 +3,8 @@ title: Octoshape支援多平台的P2P客户端
 date: 2011-12-04T23:36:57+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - linux
   - octoshape
 ---
 

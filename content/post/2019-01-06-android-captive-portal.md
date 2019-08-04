@@ -6,7 +6,7 @@ layout: post
 tags: 
   - android
 categories:
-  - 分享
+  - android
 ---
 
 目前互联网上已经有了很多 Captive Portal Server ，如果你已经在使用一个稳定的，那么你是没有必要更改的。我们提供的这个地址只是希望能够让大家可以有多一种选择而已。

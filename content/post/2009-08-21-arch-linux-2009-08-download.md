@@ -3,9 +3,9 @@ title: Arch Linux 2009.08 下载
 date: 2009-08-21T22:18:55+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - arch
+  - news
 ---
 ![arch](https://res.cloudinary.com/the-backyard-of-stanley/image/upload/v1512721788/archlinux-logo-dark-1200dpi.b42bd35d5916_ioafu3.png)
 

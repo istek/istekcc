@@ -2,10 +2,10 @@
 title: V2rayNG手机客户端的使用
 date: 2017-11-05T09:54:18+00:00
 layout: post
-categories:
-  - 我的世界
 tags:
   - v2ray
+categories:
+  - andriod
 ---
 鉴于上月十九大召开期间，网络管制相当厉害，好多SSR和SS被屏蔽了，后来发现V2ray还能使用，于是使用了一个阶段的V2ray，感觉挺好用的，速度不比SS/SSR差，而且是真实的TLS加密通讯，非常不错，今天把安卓手机安装客户断的过程写一下。
 

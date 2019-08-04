@@ -3,10 +3,9 @@ title: 通过LiveCD修复GRUB2
 date: 2009-08-27T20:45:24+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
   - grub
-  - Ubuntu
 ---
 
 昨天重新安装了Ubuntu，但是grub2出现问题，导致错误Error 15，压根进不了grub command line，没有办法，只好修复Grub2,无奈网上的内容多是修复Grub的，很少关于通过liveCD修复grub2的，在搜索google之后，发现了[该文](https://wiki.ubuntu.com/Grub2)，特地翻译出来，给有需要的朋友们使用。

@@ -4,10 +4,10 @@ date: 2018-12-31T21:47:45+08:00
 draft: false
 layout: post
 tags: 
-  - Oracle
+  - oracle
   - SQL
 categories:
-  - 分享
+  - SQL
 ---
 Oracle PL/SQL编程详解
 

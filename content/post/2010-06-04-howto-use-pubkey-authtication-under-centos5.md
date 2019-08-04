@@ -3,9 +3,8 @@ title: Howto use Pubkey Authtication under CentOS5
 date: 2010-06-04T16:31:51+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
   - openssh
 ---
 

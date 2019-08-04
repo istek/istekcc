@@ -3,7 +3,7 @@ title: DLINK624+A和虚拟服务器
 date: 2009-09-30T06:15:28+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - dlink
 ---

@@ -3,9 +3,9 @@ title: CentOS安装php加速软件Zend Guard
 date: 2012-07-05T19:45:58+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
+  - Zend Guard
   - php
 ---
 

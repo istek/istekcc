@@ -3,7 +3,7 @@ title: 'Rumer &#8211; Aretha (New single out now)'
 date: 2010-12-12T09:05:38+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - 音乐
 ---

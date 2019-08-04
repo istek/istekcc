@@ -3,9 +3,8 @@ title: 重建硬连接（hard link）
 date: 2010-05-30T20:51:38+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
   - hardlink
 ---
 CentOS 5.5操作系统，在`/var/log/message`中出现

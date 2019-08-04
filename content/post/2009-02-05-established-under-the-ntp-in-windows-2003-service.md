@@ -3,10 +3,9 @@ title: 在Windows 2003下建立NTP服务
 date: 2009-02-05T22:58:17+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 tags:
   - ntp
-  - windows
 ---
 
 在Windows 2003 Server系统下配置成功。

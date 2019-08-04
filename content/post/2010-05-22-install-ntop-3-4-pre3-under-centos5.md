@@ -3,9 +3,8 @@ title: CentOS 5.5下ntop 3.4 pre3安装配置笔记
 date: 2010-05-22T01:51:58+00:00
 layout: post
 categories:
-  - 我的世界
+  - Linux
 tags:
-  - CentOS
   - ntop
 ---
 昨天发现有网络丢失包的情况，老男孩给了一个建议，使用ntop可以实时观察，统计，分析流量。那么ntop是个什么东东？Ntop是一个网络使用状况监测软件，在互动模式下，ntop会将网络的使用状况显示在使用者的终端机画面上。在Web模式中，ntop会像Web Server一样产生出内含网络使用状况的网页传回到使用者的浏览器上。它不仅可以列出节点的网络流量数据统计，也可以根据高层协议进性流量统计分析，比如P2P,HTTP,SSH,FTP等，还提供了插件功能，可以使用第三方插件，3.4Pre3默认情况下已包括NetFlow，cPacket，icmpWatch，rrdplugin，sFlow五个插件。
