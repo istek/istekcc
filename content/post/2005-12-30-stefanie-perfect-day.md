@@ -3,10 +3,9 @@ title: 孙燕姿 完美的一天
 date: 2005-12-30T02:11:58+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - 孙燕姿
-  - 音乐
 ---
 
 我要一所大房子

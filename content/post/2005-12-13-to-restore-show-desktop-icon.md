@@ -3,8 +3,6 @@ title: 恢复显示桌面图标
 date: 2005-12-13T03:36:29+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
 ---
 

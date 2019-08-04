@@ -2,9 +2,8 @@
 title: 天气寒冷咯~
 date: 2005-10-21T15:07:46+00:00
 layout: post
-guid: http://www.mstz.us/?p=14
 categories:
-  - 我的世界
+  - 随笔
 ---
 今天下雨了，好冷，感觉好像初冬一样。这是深秋吗？怀疑哦。
 

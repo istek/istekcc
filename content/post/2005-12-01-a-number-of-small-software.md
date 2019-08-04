@@ -3,9 +3,7 @@ title: 一些小软件..:)
 date: 2005-12-01T02:11:22+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - 软件分享
+  - windows
 ---
 [点击下载此文件](attachments/month_0511/0200511309592.rar)
 

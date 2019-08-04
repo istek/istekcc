@@ -3,10 +3,9 @@ title: 除了爱情-梦飞船
 date: 2005-12-25T16:52:48+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - 梦飞船
-  - 音乐
 ---
 
 作曲 : Jim

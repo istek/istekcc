@@ -3,8 +3,6 @@ title: Oracle 9.2 Client的麻烦
 date: 2005-10-28T14:00:42+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
 ---
 

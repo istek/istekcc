@@ -3,10 +3,9 @@ title: 'Chie Ayado &#8211; My Way'
 date: 2005-11-08T13:00:03+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - Chie Ayado
-  - 音乐
 ---
 
 ![https://www.elusivedisc.com/images/maslpi49100.jpg](https://www.elusivedisc.com/images/maslpi49100.jpg)

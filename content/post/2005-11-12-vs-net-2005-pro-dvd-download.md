@@ -3,7 +3,7 @@ title: 【BT】VS.NET 2005 PRO－DVD
 date: 2005-11-12T08:09:09+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 tags:
   - visual studio 2005
 ---

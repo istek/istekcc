@@ -3,8 +3,6 @@ title: 破解TCP连接数限制！
 date: 2005-10-26T14:06:09+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
 ---
 

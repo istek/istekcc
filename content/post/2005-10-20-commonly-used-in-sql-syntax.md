@@ -3,9 +3,7 @@ title: 常用的SQL语法
 date: 2005-10-20T14:56:07+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - SQL
+  - sql
 ---
 说明：复制表(只复制结构,源表名：a 新表名：b)
 

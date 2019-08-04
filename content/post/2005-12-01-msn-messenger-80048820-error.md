@@ -3,8 +3,6 @@ title: MSN Messenger 80048820错误
 date: 2005-12-01T06:24:04+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
 ---
 

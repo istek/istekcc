@@ -3,7 +3,7 @@ title: 英格玛－乌兰巴托的爸爸
 date: 2005-11-08T13:17:56+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 ---
 
 ![https://image2.sina.com.cn/ent/y/d/2005-10-20/U996P28T3D870821F329DT20051104174819.JPG](https://image2.sina.com.cn/ent/y/d/2005-10-20/U996P28T3D870821F329DT20051104174819.JPG)

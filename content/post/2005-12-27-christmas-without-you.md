@@ -3,10 +3,9 @@ title: 没有你的圣诞节-爱戴
 date: 2005-12-27T12:41:43+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - 爱戴
-  - 音乐
 ---
 
 曲 词：刘沁

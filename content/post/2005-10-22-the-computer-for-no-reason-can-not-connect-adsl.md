@@ -3,7 +3,7 @@ title: 电脑无故无法连接ADSL！？
 date: 2005-10-22T13:18:35+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 唉！这不是第一次发生了！已经是第二次了，第一次我发回原厂修了，但是现在看来根本没有那个必要。 ![](images/smilies/Face_11.gif)
 

@@ -3,8 +3,6 @@ title: 开始→运行→输入的命令集锦
 date: 2005-12-13T03:32:59+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
 ---
 

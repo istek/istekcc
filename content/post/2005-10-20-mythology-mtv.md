@@ -3,10 +3,9 @@ title: 《神话》MTV
 date: 2005-10-20T08:14:13+00:00
 layout: post
 categories:
-  - 我的世界
+  - MV
 tags:
   - 神话
-  - 音乐
 ---
 
 电影不错，我是和同学去电影院看的。

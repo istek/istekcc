@@ -3,7 +3,7 @@ title: Cisco 515E防火墙与Winmail
 date: 2005-11-04T03:18:24+00:00
 layout: post
 categories:
-  - 我的世界
+  - windows
 ---
 
 关于CISCO的端口和SMTP服务。

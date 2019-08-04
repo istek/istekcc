@@ -3,9 +3,7 @@ title: Uxtheme.dll 破解文件
 date: 2005-10-26T14:01:35+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
-  - 软件分享
+  - windows
 ---
 今天无意中发现了这个东东，赶紧收藏下来，可能别人比我先知道吧。这个补丁可以应用于windows XP ,Windows XP SP1, Windows XP SP2 和Windows 2003系列。
 

@@ -3,7 +3,7 @@ title: Opera 9.0速度超快！
 date: 2005-10-23T03:44:31+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 tags:
   - firefox
 ---

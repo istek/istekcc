@@ -3,7 +3,7 @@ title: GoogleMail邀请赠送！
 date: 2005-10-22T01:32:24+00:00
 layout: post
 categories:
-  - 我的世界
+  - WEB
 ---
 
 本站长期给有需要的朋友，赠送GoogleMail,请您留下Email地址，我会及时发送给你的。

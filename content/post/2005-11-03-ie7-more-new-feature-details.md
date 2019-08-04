@@ -3,8 +3,6 @@ title: IE7更多新增功能详解
 date: 2005-11-03T12:05:52+00:00
 layout: post
 categories:
-  - 我的世界
-tags:
   - windows
 ---
 

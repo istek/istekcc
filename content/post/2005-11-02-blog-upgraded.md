@@ -3,7 +3,7 @@ title: BLOG升级了！
 date: 2005-11-02T02:43:12+00:00
 layout: post
 categories:
-  - 我的世界
+  - 随笔
 ---
 
 BLOG已经升级到官方最新版了。真的不错。支持的东西多了，比如TAG，ATOM，后台也变化了些。不错。
