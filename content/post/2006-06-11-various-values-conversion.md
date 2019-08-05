@@ -4,8 +4,6 @@ date: 2006-06-11T04:51:16+00:00
 layout: post
 categories:
   - .Net
-tags:
-  - c#
 ---
 
 1、二进制数、八进制数、十六进制数转十进制数

@@ -4,8 +4,6 @@ date: 2006-06-28T14:36:58+00:00
 layout: post
 categories:
   - .Net
-tags:
-  - c#
 ---
 **一 用SqlConnection连接SQL Server**
 

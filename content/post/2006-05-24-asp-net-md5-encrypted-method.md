@@ -4,8 +4,6 @@ date: 2006-05-24T02:16:29+00:00
 layout: post
 categories:
   - .Net
-tags:
-  - c#
 ---
 ```
     <%@ Page Language="C#" ContentType="text/html"%>

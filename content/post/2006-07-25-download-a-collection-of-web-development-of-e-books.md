@@ -4,8 +4,6 @@ date: 2006-07-25T13:45:45+00:00
 layout: post
 categories:
   - .Net
-tags:
-  - c#
 ---
 Microsoft Windows脚本技术
 

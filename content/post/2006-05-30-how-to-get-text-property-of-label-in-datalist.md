@@ -4,8 +4,6 @@ date: 2006-05-30T07:44:47+00:00
 layout: post
 categories:
   - .Net
-tags:
-  - c#
 ---
 
 Normally when you want to do that you are doing it from within an event

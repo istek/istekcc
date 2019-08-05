@@ -4,8 +4,6 @@ date: 2006-05-13T03:58:26+00:00
 layout: post
 categories:
   - .Net
-tags:
-  - c#
 ---
 ASP.NET连接数据库可以使用VS提供的空间DATASOURCE,包括Sqldatasource，objectdatasource，xmldatasource，AccessDatasource。
 

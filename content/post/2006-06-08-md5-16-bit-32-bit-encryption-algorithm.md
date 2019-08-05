@@ -4,8 +4,6 @@ date: 2006-06-08T05:26:04+00:00
 layout: post
 categories:
   - .Net
-tags:
-  - c#
 ---
 代码如下:
 ```

@@ -4,8 +4,6 @@ date: 2006-06-26T04:43:50+00:00
 layout: post
 categories:
   - .Net
-tags:
-  - c#
 ---
 
 ```

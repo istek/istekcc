@@ -4,8 +4,6 @@ date: 2006-03-07T01:50:30+00:00
 layout: post
 categories:
   - .Net
-tags:
-  - 'c#'
 ---
 
 1. 下载.net framework v1.1 sp1

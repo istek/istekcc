@@ -4,8 +4,6 @@ date: 2006-06-11T04:54:58+00:00
 layout: post
 categories:
   - .Net
-tags:
-  - c#
 ---
 
 一,哈希表(Hashtable)简述

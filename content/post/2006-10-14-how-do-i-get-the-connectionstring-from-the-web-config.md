@@ -4,8 +4,6 @@ date: 2006-10-14T07:55:53+00:00
 layout: post
 categories:
   - .Net
-tags:
-  - c#
 ---
 
 通过使用ConfigurationManager，你可以从Web.Config中取得ConnectionString。
