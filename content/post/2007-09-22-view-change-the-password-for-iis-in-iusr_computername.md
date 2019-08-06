@@ -3,7 +3,7 @@ title: 查看、变更IIS中IUSR_computername的密码
 date: 2007-09-22T14:50:56+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - iis
 ---

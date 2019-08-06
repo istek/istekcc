@@ -6,7 +6,7 @@ tags:
   - python
   - vscode
 categories:
-  - windows
+  - Windows
 ---
 
 第一次使用VScode写python代码，比我想象中要好得多，很方便。不过在使用之前，还是看了很多YouTube视频，看看其他人都是怎么配置vscode的。好在用vscode尝试学习了flask框架，感觉挺好，自动补全，错误提示，格式化代码等，很方便。

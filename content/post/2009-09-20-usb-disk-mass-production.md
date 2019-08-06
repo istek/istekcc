@@ -3,7 +3,7 @@ title: U盘量产
 date: 2009-09-20T21:15:08+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - chip genuis
 ---

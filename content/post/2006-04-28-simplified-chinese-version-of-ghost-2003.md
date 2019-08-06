@@ -3,7 +3,7 @@ title: Ghost 2003简体中文版
 date: 2006-04-28T14:10:28+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
 
 今天在mofile上传了ghost 2003简体中文完整版。东西不错。需要的朋友，尽快下!

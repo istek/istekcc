@@ -3,7 +3,7 @@ title: XP系统声音(Samsung)
 date: 2005-12-20T01:43:40+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
 
 觉得XP系统的声音听惯了，所以自己在网上找了一套Samsung的系统声音，比XP好听啊，我觉得：）一个是声音文件，还有一个是安装文件啦。自己下了试试哦！

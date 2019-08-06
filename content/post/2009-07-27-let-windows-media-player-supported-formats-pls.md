@@ -3,7 +3,7 @@ title: 让Windows Media Player支持PLS格式
 date: 2009-07-27T01:03:20+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - wmp
 ---

@@ -3,7 +3,7 @@ title: Windows Live Messenger自助邀请！
 date: 2006-02-07T03:02:49+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - wlm
 ---

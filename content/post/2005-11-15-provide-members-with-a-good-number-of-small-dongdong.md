@@ -3,7 +3,7 @@ title: 给大家提供几个小巧的好东东～
 date: 2005-11-15T04:04:24+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
 
 第一个：

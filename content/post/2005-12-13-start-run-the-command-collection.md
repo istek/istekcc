@@ -3,18 +3,18 @@ title: 开始→运行→输入的命令集锦
 date: 2005-12-13T03:32:59+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
 
 开始→运行→输入的命令集锦
 
 winver———检查Windows版本
 
-wmimgmt.msc—-打开windows管理体系结构(WMI)
+wmimgmt.msc—-打开Windows管理体系结构(WMI)
 
-wupdmgr——–windows更新程序
+wupdmgr——–Windows更新程序
 
-wscript——–windows脚本宿主设置
+wscript——–Windows脚本宿主设置
 
 write———-写字板
 
@@ -88,7 +88,7 @@ shrpubw——–创建共享文件夹
 
 secpol.msc—–本地安全策略
 
-syskey———系统加密，一旦加密就不能解开，保护windows xp系统的双重密码
+syskey———系统加密，一旦加密就不能解开，保护Windows xp系统的双重密码
 
 services.msc—本地服务设置
 
@@ -96,7 +96,7 @@ Sndvol32——-音量控制程序
 
 sfc.exe——–系统文件检查器
 
-sfc /scannow—windows文件保护
+sfc /scannow—Windows文件保护
 
 tsshutdn——-60秒倒计时关机命令
 

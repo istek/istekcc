@@ -3,7 +3,7 @@ title: IE7更多新增功能详解
 date: 2005-11-03T12:05:52+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
 
 随着Windows Vista Build 5231版本的释放，集成在Vista内部的IE7的更多新特性也逐渐一一展现在了大家眼前。可以说新版本的IE7将会让一些第三方的IE浏览器辅助工具彻底下岗失业，例如搜索工具栏、防网络钓鱼软件、RSS阅读器等等。

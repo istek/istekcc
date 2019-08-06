@@ -3,7 +3,7 @@ title: 终于可以局域网共享了
 date: 2008-12-21T03:58:47+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - DMZ
 ---

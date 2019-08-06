@@ -3,7 +3,7 @@ title: HP 540笔记本通过OEM方式激活WIN7
 date: 2010-01-14T21:58:26+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - slp
 ---

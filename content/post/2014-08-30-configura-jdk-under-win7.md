@@ -3,7 +3,7 @@ title: WIN7配置jdk
 date: 2014-08-30T06:02:23+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - jdk
 ---

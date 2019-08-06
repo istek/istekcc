@@ -23,4 +23,4 @@ Flush DNS Cache in Ubuntu Using the following command
 
 By Stanley:
 
-it’s a very useful tool.it doesn’t like Windows, ’cause windows have a tool named ifconfig, and it has a parameter named flushdns, and it’s functional to clear your dns. But under ubuntu system, i didn’t find out any tool like that. okay, right now mark it, maybe you will use it next time.
+it’s a very useful tool.it doesn’t like Windows, ’cause Windows have a tool named ifconfig, and it has a parameter named flushdns, and it’s functional to clear your dns. But under ubuntu system, i didn’t find out any tool like that. okay, right now mark it, maybe you will use it next time.

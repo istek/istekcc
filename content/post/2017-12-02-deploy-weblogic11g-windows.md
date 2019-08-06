@@ -5,11 +5,11 @@ layout: post
 tags:
   - weblogic
 categories:
-  - windows
+  - Windows
 ---
 我们项目实施部经常会遇到部署weblogic的问题，中间件我们平时主要使用tomcat和weblogic，但是从稳定性、内存消耗、应用管理部署等方面看，weblogic更胜一筹，可惜的是，虽然可以从oracle官方网站下载到安装程序，但是漏洞补丁的修复，仍然需要购买服务才能获得，否则很尴尬，一旦被局方扫描到漏洞后，处理起来很费劲，例如我们公司就没有购买weblogic服务。
 
-从工作中发现很多同事都不会部署weblogic，先不说rhel linux了，就是Windows很多人也不会，因此，在同事的要求下，写了这篇文档给他们，还有贴图，一副一副截图，然后贴到word里面，很累，环境的话，我是在我的PC虚拟机里面装了两台windows 2003 server。这里面的内容，我就再不贴图了，太多了，文末有完整版的pdf文件供下载学习。<!--more-->
+从工作中发现很多同事都不会部署weblogic，先不说rhel linux了，就是Windows很多人也不会，因此，在同事的要求下，写了这篇文档给他们，还有贴图，一副一副截图，然后贴到word里面，很累，环境的话，我是在我的PC虚拟机里面装了两台Windows 2003 server。这里面的内容，我就再不贴图了，太多了，文末有完整版的pdf文件供下载学习。<!--more-->
 
 # 一、安装前准备
 
@@ -17,13 +17,13 @@ categories:
 
 建议操作系统至少为Windows Server 2008以上，在本例中使用了WINDOWS SERVER 2003 x86操作系统。
 
-因为微软已经于2015年1月终止了对WINDOWS SERVER 2008的支持，所以目前如果想要使用微软的系统补丁，则必须使用windows server 2012以后的操作系统。
+因为微软已经于2015年1月终止了对WINDOWS SERVER 2008的支持，所以目前如果想要使用微软的系统补丁，则必须使用Windows server 2012以后的操作系统。
 
 ## 2、JDK
 
 JDK使用oracle jdk即可，版本至少1.6以上，本例中使用JDK 1.6 update 45 x86。
 
-JDK的位数要求：必须匹配操作系统的位数，若使用WINDOWS server 2008 X86，则JDK版本也应该使用jdk x86，反之，若windows server 2008 x86_64,则JDK使用 jdk x64版本。
+JDK的位数要求：必须匹配操作系统的位数，若使用WINDOWS server 2008 X86，则JDK版本也应该使用jdk x86，反之，若Windows server 2008 x86_64,则JDK使用 jdk x64版本。
 
 Windows操作系统的版本可以查看系统信息获取，如下图：
 
@@ -58,7 +58,7 @@ Windows操作系统的版本可以查看系统信息获取，如下图：
 
 在node1和node2两台服务器安装JDK，配置系统环境变量。
 
-首先，安装jdk，运行`jdk-6u45-windows-i586.exe`，安装界面
+首先，安装jdk，运行`jdk-6u45-Windows-i586.exe`，安装界面
 
 点击“下一步”
 

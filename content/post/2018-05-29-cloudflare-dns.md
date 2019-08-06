@@ -5,7 +5,7 @@ layout: post
 tags: 
   - dns
 categories:
-  - windows
+  - Windows
 ---
 ![Cloudflare](https://qn.zhoutao.ren/img/20180529-233314.png)
 

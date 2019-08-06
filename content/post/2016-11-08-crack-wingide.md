@@ -3,7 +3,7 @@ title: WingIDE的特别烹制办法(☆_☆)/~~
 date: 2016-11-08T21:12:55+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - wingide
   - python
@@ -18,7 +18,7 @@ WingIDE是Python程序语言设计的集成开发环境，具有语法标签高�
 
 按照正常流程安装即可，没有什么需要注意的地方。
 
-_注意：WingIDE不内建python，所以需要在安装WingIDE之前先安装python，windows下面推荐安装[activePython](http://www.activestate.com/activepython)。_
+_注意：WingIDE不内建python，所以需要在安装WingIDE之前先安装python，Windows下面推荐安装[activePython](http://www.activestate.com/activepython)。_
 <!--more-->
 **三、特别“烹制”**
 

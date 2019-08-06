@@ -28,7 +28,7 @@ Device Boot Start End Blocks Id System
 /dev/sdb6 14279 30401 129507966 7 HPFS/NTFS *
 ```
 <!--more-->
-menu.lst文件的Ubuntu和windows部分的代码如下:
+menu.lst文件的Ubuntu和Windows部分的代码如下:
 ```
 title Ubuntu 8.04.1, kernel 2.6.24-21-generic
 root (hd0,4)
@@ -66,7 +66,7 @@ $ sudo dd if=/dev/sda1 of=/media/winc/ubuntu bs=512 count=1
 
 该命令是将sda1的盘头的512字节读出来，保存为ubuntu文件至C盘根下。
 
-接着修改windows的boot.ini文件，在文件最后加入`c:\ubuntu="Ubuntu"`就可以了，整个文件如下:
+接着修改Windows的boot.ini文件，在文件最后加入`c:\ubuntu="Ubuntu"`就可以了，整个文件如下:
 ```
 [boot loader]
 timeout=5

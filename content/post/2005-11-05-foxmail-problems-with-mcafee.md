@@ -3,7 +3,7 @@ title: Foxmail与Mcafee的问题
 date: 2005-11-05T15:08:24+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - foxmail
 ---

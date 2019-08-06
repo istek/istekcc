@@ -17,7 +17,7 @@ mplayer或者rhythmbox播放mms和http协议的。
 
 Windows：
 
-windows media player
+Windows media player
 
 暴风影音
 <!--more-->

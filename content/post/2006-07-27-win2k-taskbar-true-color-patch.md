@@ -4,7 +4,7 @@ date: 2006-07-27T15:48:24+00:00
 layout: post
 guid: http://www.mstz.us/?p=452
 categories:
-  - windows
+  - Windows
 ---
 
 让你的任务栏不再是难看的图标了。呵呵。

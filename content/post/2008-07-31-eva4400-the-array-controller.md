@@ -8,9 +8,9 @@ tags:
   - hp
 ---
 
-最近在做浦发银行的安装，碰到了几个菜的棘手问题。SMA上安装了HBA卡的storport驱动，但是发现EVA HSV 300 ARRAY CONTROLLER在设备管理器中仍然是other device，上面一个questions mark，我就很晕，前些日子，做铁路局的安装，使用的是同一个驱动，都没有出现这个问题，为什么这次就出现了呢，开了一个内部call，rc说是驱动用得不合适，我很郁闷，于是他告诉我去下载对应操作系统的驱动，另外还要安装一个windows的补丁，就可以了。
+最近在做浦发银行的安装，碰到了几个菜的棘手问题。SMA上安装了HBA卡的storport驱动，但是发现EVA HSV 300 ARRAY CONTROLLER在设备管理器中仍然是other device，上面一个questions mark，我就很晕，前些日子，做铁路局的安装，使用的是同一个驱动，都没有出现这个问题，为什么这次就出现了呢，开了一个内部call，rc说是驱动用得不合适，我很郁闷，于是他告诉我去下载对应操作系统的驱动，另外还要安装一个Windows的补丁，就可以了。
 
-另外，安装`command view for eva`时，出现了一个BLM Error的错误，说什么XML COMMAND FAILED，咨询了一下rc，rc说windows系统不好trouble shooting，建议重新安装os，我很无奈，晚上临下班的那会，找了半天盒子都没有翻出来一张system recovery DVD，明天要是找不到，我就要死了！唉。
+另外，安装`command view for eva`时，出现了一个BLM Error的错误，说什么XML COMMAND FAILED，咨询了一下rc，rc说Windows系统不好trouble shooting，建议重新安装os，我很无奈，晚上临下班的那会，找了半天盒子都没有翻出来一张system recovery DVD，明天要是找不到，我就要死了！唉。
 
 关于A8003A HP StorageWorks FC2242SR的文档，可以下载该[PDF](http://docs.hp.com/en/9325/sw_a8002a_a8003a_ig.pdf)。
 

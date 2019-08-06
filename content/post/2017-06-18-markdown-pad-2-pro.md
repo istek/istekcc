@@ -3,7 +3,7 @@ title: MarkdownPad 2 Pro
 date: 2017-06-18T23:17:02+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - markdownpad
 ---

@@ -3,7 +3,7 @@ title: KV2005升级补丁
 date: 2005-10-31T11:22:18+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
 今天无意中从百度搜索到的，挺不错的。呵呵。
 

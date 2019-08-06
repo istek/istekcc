@@ -3,7 +3,7 @@ title: 无法做端口映射如何允许外网访问服务器
 date: 2017-07-07T13:20:32+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - ngrok
 ---

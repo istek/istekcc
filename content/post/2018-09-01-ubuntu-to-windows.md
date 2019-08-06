@@ -1,5 +1,5 @@
 ---
-title: "Ubuntu/linuxmint远程桌面windows"
+title: "Ubuntu/linuxmint远程桌面Windows"
 date: 2018-09-01T12:23:14+08:00
 layout: post
 draft: false
@@ -9,9 +9,9 @@ categories:
   - Linux
 ---
 
-Ubuntu/linuxmint远程桌面windows
+Ubuntu/linuxmint远程桌面Windows
 
-办公室的电脑使用windows 10，有时候需要从家里的LinuxMint访问办公室的电脑，我百度了一下，发现很多人都是推荐rdesktop这个工具，但是这个工具是从命令行运行的，不是很喜欢，我想要带gui界面的，于是又搜索了一下Google，发现有人推荐**Remmina**。
+办公室的电脑使用Windows 10，有时候需要从家里的LinuxMint访问办公室的电脑，我百度了一下，发现很多人都是推荐rdesktop这个工具，但是这个工具是从命令行运行的，不是很喜欢，我想要带gui界面的，于是又搜索了一下Google，发现有人推荐**Remmina**。
 
 这个工具很不错，支持多种协议，只要有合适的插件，就能各种远程，例如VNC,SSH等等。
 <!--more-->

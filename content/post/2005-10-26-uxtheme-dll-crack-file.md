@@ -3,9 +3,9 @@ title: Uxtheme.dll 破解文件
 date: 2005-10-26T14:01:35+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
-今天无意中发现了这个东东，赶紧收藏下来，可能别人比我先知道吧。这个补丁可以应用于windows XP ,Windows XP SP1, Windows XP SP2 和Windows 2003系列。
+今天无意中发现了这个东东，赶紧收藏下来，可能别人比我先知道吧。这个补丁可以应用于Windows XP ,Windows XP SP1, Windows XP SP2 和Windows 2003系列。
 
 通过破解这个文件，我们就不需要使用STYLEXP来使用第三方主题了。很漂亮的。
 

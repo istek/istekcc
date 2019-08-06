@@ -3,7 +3,7 @@ title: MSLive信箱的收取办法
 date: 2009-09-14T02:22:40+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - foxmail
   - hotmail

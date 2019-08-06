@@ -3,7 +3,7 @@ title: Foxmail 最新版
 date: 2005-11-24T12:34:56+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
 
 **Foxmail 6 新增功能**

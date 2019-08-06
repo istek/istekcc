@@ -3,7 +3,7 @@ title: IP地址变了？！
 date: 2005-11-11T01:33:39+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
 
 IP地址变广西了，有人还以为我跑到广西去了。无奈哦。

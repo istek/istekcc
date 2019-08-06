@@ -3,7 +3,7 @@ title: Windows Live Mail
 date: 2006-07-25T00:50:12+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - wlm
 ---

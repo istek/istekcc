@@ -3,7 +3,7 @@ title: 找回清空的回收站内容
 date: 2010-04-26T01:12:30+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - easyrecovery
 ---

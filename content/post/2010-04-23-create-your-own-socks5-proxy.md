@@ -23,7 +23,7 @@ from FreeBSD SSH(1) man:
 <!--more-->
 Specifies a local dynamic application-level port forwarding. This works by allocating a socket to listen to port on the local side.
 
-For windows users they can do it with putty
+For Windows users they can do it with putty
 ```
 C:\>putty.exe -ssh "USERNAME"@SSHserver.com -pw "PASSWORD" -P 22 -D 5050
 ```

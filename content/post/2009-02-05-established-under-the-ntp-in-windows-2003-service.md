@@ -3,7 +3,7 @@ title: 在Windows 2003下建立NTP服务
 date: 2009-02-05T22:58:17+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - ntp
 ---

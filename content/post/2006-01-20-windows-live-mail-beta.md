@@ -3,11 +3,11 @@ title: Windows Live Mail Beta?!
 date: 2006-01-20T08:52:48+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
 ![](https://www3.imagine-msn.com/minisites/images/waitlists/header/WinLive.MailBeta.Logo.gif)
 
-今天收到了HOTMAIL工作组邀请我试用windows live mail beta的邮件，当我尝试加入的时候，每次都是报错，报同样的错误。
+今天收到了HOTMAIL工作组邀请我试用Windows live mail beta的邮件，当我尝试加入的时候，每次都是报错，报同样的错误。
 
   抱歉，您的帐户目前不能参与 Mail Beta。这可能是由于如下的原因：
   您的年龄不到13岁

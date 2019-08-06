@@ -27,7 +27,7 @@ brew install android-platform-tools
 <!--more-->
 如果使用使用的是 Windows ，那么可以使用下面这个帖子里提到的快速安装 adb 的工具：
 
-[下载工具](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+[下载工具](https://dl.google.com/android/repository/platform-tools-latest-Windows.zip)
 
 如果你使用的是 Ubuntu/Debian ，那么你可以在添加一个 PPA 包之后，通过 apt-get 获得 adb ：
 

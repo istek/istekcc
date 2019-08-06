@@ -1,9 +1,9 @@
 ---
-title: Fix mbr record in windows xp
+title: Fix mbr record in Windows xp
 date: 2009-08-27T20:04:18+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - fixmbr
 ---

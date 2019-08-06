@@ -3,7 +3,7 @@ title: 实用工具和2个文档
 date: 2006-04-20T04:14:17+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
 
 今天在网络硬盘上放了几个东西，大家可以看看。有兴趣的，可以下载用一下。

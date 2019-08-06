@@ -1,9 +1,9 @@
 ---
-title: 使用windows live writer书写日志
+title: 使用Windows live writer书写日志
 date: 2007-06-09T11:46:13+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - wlm
 ---

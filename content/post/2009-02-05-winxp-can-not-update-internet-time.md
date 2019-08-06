@@ -3,18 +3,18 @@ title: winxp不能更新Internet时间
 date: 2009-02-05T22:54:07+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - ntp
 ---
 错误是RPC不可用或者更新出错，导致WINXP不能更新Internet时间。
 
-首先，检查RPC服务是否已经运行。检查方法：我的电脑右键，管理，服务和应用程序，服务。Remote Procedure Call (RPC) 启动。 如果RPC在运行，但是更新时间依旧有错， 也有可能是windows time服务失效。
+首先，检查RPC服务是否已经运行。检查方法：我的电脑右键，管理，服务和应用程序，服务。Remote Procedure Call (RPC) 启动。 如果RPC在运行，但是更新时间依旧有错， 也有可能是Windows time服务失效。
 
 修复的方法如下：
 
 1. 在“运行”处输入“cmd”,从而进入命令行模式，然后键入 `w32tm /register` ，接着按Enter .然后正确的响应为： “W32Time 成功注册”。
-2. 如果上一步正确，用net start “windows time”启动服务。
+2. 如果上一步正确，用net start “Windows time”启动服务。
 
 <!--more-->
 当然，也不排除病毒或者防火墙，防病毒软件造成的问题，所以得先杀一下病毒，再关闭防火墙，防病毒软件。软件方式看完之后，就得看一下硬件。因为问题同样可能出现在主板电池上。甚至你可以换一个新的上去试一下。大都是没电，或者不能储电的问题。

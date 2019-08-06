@@ -3,7 +3,7 @@ title: 黑莓MDS激活服务器搭建步骤教程/MDS企业激活服务器的搭
 date: 2010-09-25T21:42:35+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - 黑莓
 ---
@@ -13,7 +13,7 @@ tags:
 1.首先下载两个必须文件：
 
 * BlackBerry_Email_MDS_4.1.0-4 下载地址：[这里下载](http://down.maxpda.com/blackberry/BlackBerry_Email_MDS_4.1.4.html)
-* jdk-6u10-rc2-bin-b32-windows-i586-p-12_sep_2008.exe
+* jdk-6u10-rc2-bin-b32-Windows-i586-p-12_sep_2008.exe
 
 2.安装JDK（java开发工具包，包含JRE(JAVA运行环境))
 

@@ -3,7 +3,7 @@ title: 黑莓SSH工具
 date: 2011-01-06T03:34:50+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - 黑莓
 ---

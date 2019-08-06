@@ -21,7 +21,7 @@ tags:
 
 1、Windows
 
-在windows下可以使用[windows image writer](https://launchpad.net/win32-image-writer/0.6/0.6/+download/win32diskimager-binary.zip)软件，选择正确的镜像文件，然后选择U盘盘符，最后点击write等待写入完成。
+在Windows下可以使用[Windows image writer](https://launchpad.net/win32-image-writer/0.6/0.6/+download/win32diskimager-binary.zip)软件，选择正确的镜像文件，然后选择U盘盘符，最后点击write等待写入完成。
 
 2、Linux
 
@@ -130,7 +130,7 @@ mkinitcpio -p linux
 grub-install /dev/sda
 ```
 
-16.生成grub配置文件，如果你还装了windows，建议先安装`os-prober`，然后再生成配置文件。
+16.生成grub配置文件，如果你还装了Windows，建议先安装`os-prober`，然后再生成配置文件。
 ```
 pacman -S os-prober [可选的]
 grub-mkconfig -o /boot/grub/grub.cfg

@@ -29,7 +29,7 @@ categories:
 
 ## 换源
 
-在windows资源管理器下键入`%APPDATA%`，新建文件夹`pip`，在`pip`文件夹内，新建文件`pip.ini`，以记事本形式打开，然后敲入下面的内容：
+在Windows资源管理器下键入`%APPDATA%`，新建文件夹`pip`，在`pip`文件夹内，新建文件`pip.ini`，以记事本形式打开，然后敲入下面的内容：
 
 ```ini
 [global]

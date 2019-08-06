@@ -3,7 +3,7 @@ title: 去除烦人的迅雷广告
 date: 2010-01-17T20:33:10+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - 迅雷
 ---

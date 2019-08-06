@@ -3,7 +3,7 @@ title: 浏览器右键菜单乱码
 date: 2009-09-11T18:36:59+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - ie
 ---

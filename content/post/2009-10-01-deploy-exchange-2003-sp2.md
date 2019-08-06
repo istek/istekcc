@@ -3,7 +3,7 @@ title: 实验:部署Exchange2003 SP2
 date: 2009-10-01T05:42:54+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - exchange2003
 ---

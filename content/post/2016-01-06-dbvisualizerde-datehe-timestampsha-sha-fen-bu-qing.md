@@ -3,7 +3,7 @@ title: DbVisualizer的date和timestamp傻傻分不清
 date: 2016-01-06T06:25:45+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 tags:
   - DbVisualizer
 ---

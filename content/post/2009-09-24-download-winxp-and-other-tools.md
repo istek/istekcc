@@ -3,7 +3,7 @@ title: winxp和一些软件下载
 date: 2009-09-24T05:05:20+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
 
 近来一直忙活着给自己的台式机和笔记本装系统，无意中也找到了比较中意的几个WINXP系统，特地上传到Qmail的文件中转站，给各位朋友提供下载，算是分享一下吧，但是因为WINXP的版权问题，所以还是建议大家购买正版，这次给出的工具包括一些平时都能找到的，也不是什么稀奇古怪的玩意儿，也当是给自己备份一下吧。大家看着下。
@@ -14,7 +14,7 @@ Winxp SP3系统：
 
 此版本是网上流传的比较厉害的一个，据说是正版，因为发布者还公布了一个KEY，我安装到我的台式机了，没问题，微软正版验证过了。
 
-[点这里下载](http://51.dc.ftn.qq.com/ftn_handler/17f5673a4f10004d57689268584eb592d946ac8fca2e8af631a115c739151db6309049c6158aa4ed5a5c031dfeb121e1a488b2926dfe78e099ac88111812ab6a/zh-hans_windows_xp_professional_with_ser....iso?k=07373361396157eba48dc3651f390a1e555555050b0d0a07490251520b140c065c011e580a0c011c010102505d080c50550257543916384b0c1a5b00574a67460d59570e4e4a674914684313565f5d42175e5c0f585567460d435b3e4a5c4a1f4a191d084a5638)  <span>(提取码 d73a9981)</span>
+[点这里下载](http://51.dc.ftn.qq.com/ftn_handler/17f5673a4f10004d57689268584eb592d946ac8fca2e8af631a115c739151db6309049c6158aa4ed5a5c031dfeb121e1a488b2926dfe78e099ac88111812ab6a/zh-hans_Windows_xp_professional_with_ser....iso?k=07373361396157eba48dc3651f390a1e555555050b0d0a07490251520b140c065c011e580a0c011c010102505d080c50550257543916384b0c1a5b00574a67460d59570e4e4a674914684313565f5d42175e5c0f585567460d435b3e4a5c4a1f4a191d084a5638)  <span>(提取码 d73a9981)</span>
 
 2.惠普WINDOWS XP SP3正版
 

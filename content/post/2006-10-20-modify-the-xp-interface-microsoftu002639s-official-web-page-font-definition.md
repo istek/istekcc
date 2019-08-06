@@ -3,7 +3,7 @@ title: 微软官方修改XP界面字体清晰度的网页
 date: 2006-10-20T07:58:22+00:00
 layout: post
 categories:
-  - windows
+  - Windows
 ---
 
 http://www.microsoft.com/typography/cleartype/tuner/1.htm?frame=%20&fsize
