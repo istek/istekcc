@@ -3,7 +3,7 @@ title: 关于使用HASH函数加密
 date: 2006-10-17T07:56:44+00:00
 layout: post
 categories:
-  - .Net
+  - DotNet
 ---
 
 今天在写guestbook的代码的时候，想给密码加密，以前我发过一篇日志，是使用自己的MD5的方法加密的，虽然MD5加密不可逆，但是仍然感觉那个加密方法需要改进一下。

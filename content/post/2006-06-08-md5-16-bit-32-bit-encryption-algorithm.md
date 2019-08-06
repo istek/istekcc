@@ -3,7 +3,7 @@ title: MD5 16位，32位加密算法
 date: 2006-06-08T05:26:04+00:00
 layout: post
 categories:
-  - .Net
+  - DotNet
 ---
 代码如下:
 ```

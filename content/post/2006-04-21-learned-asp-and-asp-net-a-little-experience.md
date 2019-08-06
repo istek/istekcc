@@ -3,7 +3,7 @@ title: 学习了ASP和ASP.NET的一点心得
 date: 2006-04-21T08:38:13+00:00
 layout: post
 categories:
-  - .Net
+  - DotNet
 ---
 
 今天从网络上主要看了一下ASP的教程,看的不是很深,仅仅介绍了ASP的几个对象和方法,还有简单的几个例子。不过从网络看的[10天学会ASP.net](http://bbs.wum.cn/dispbbs.asp?boardid=146&id=2355)非常不错,很适合速成。

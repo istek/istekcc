@@ -3,7 +3,7 @@ title: 学习OleDB的一些纪录
 date: 2006-06-27T12:56:56+00:00
 layout: post
 categories:
-  - .Net
+  - DotNet
 ---
 上周五把我自己写的一个简单的留言本给一个搞开发的朋友看,结果发现了2个严重的bug,一个是登录Bug,一个是Sql注入漏洞.
 

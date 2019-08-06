@@ -3,7 +3,7 @@ title: 如何从web.config中取得ConnectionString
 date: 2006-10-14T07:55:53+00:00
 layout: post
 categories:
-  - .Net
+  - DotNet
 ---
 
 通过使用ConfigurationManager，你可以从Web.Config中取得ConnectionString。

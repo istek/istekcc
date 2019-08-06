@@ -3,7 +3,7 @@ title: ASP.NET中MD5加密码的方法
 date: 2006-05-24T02:16:29+00:00
 layout: post
 categories:
-  - .Net
+  - DotNet
 ---
 ```
     <%@ Page Language="C#" ContentType="text/html"%>
