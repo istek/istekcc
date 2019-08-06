@@ -4,8 +4,6 @@ date: 2006-05-16T01:48:43+00:00
 layout: post
 categories:
   - sql
-tags:
-  - SQL
 ---
 一、数据定义语言 ｄｄｌ（data definition language)
 

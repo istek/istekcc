@@ -5,9 +5,8 @@ draft: false
 layout: post
 tags: 
   - oracle
-  - SQL
 categories:
-  - SQL
+  - sql
 ---
 Oracle PL/SQL编程详解
 
