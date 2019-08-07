@@ -8,7 +8,7 @@ install:
     - rm -fr public
 script:
     - ./hugo version
-    - ./hugo
+    - ./hugo --cleanDestinationDir --forceSyncStatic --gc --ignoreCache --minify
 deploy:
     provider: pages
     skip_cleanup: true
